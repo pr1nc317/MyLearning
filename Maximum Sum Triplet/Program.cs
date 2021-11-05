@@ -159,15 +159,11 @@
             // Initialize suffix-array
             int[] maxSuffArr = new int[n + 1];
 
-            // Set the last element
-            maxSuffArr[n] = 0;
-
             // Calculate suffix-array containing maximum
             // value for index i, i+1, i+2, ... n-1 in
             // arr[i]
             for (int i = n - 1; i >= 0; --i)
-                maxSuffArr[i] = Math.Max(maxSuffArr[i + 1],
-                                                A[i]);
+                maxSuffArr[i] = Math.Max(maxSuffArr[i+1], A[i]);
 
             int ans = 0;
 
@@ -176,13 +172,13 @@
 
             // Insert minimum value for first comparison
             // in the set
-            lowValue.Add(int.MinValue);
+            lowValue.Add(A[0]);
 
             for (int i = 1; i < n - 1; ++i)
             {
                 if (maxSuffArr[i + 1] > A[i])
                 {
-                    ans = Math.Max(ans, lowValue.GetViewBetween(int.MinValue, A[i]).Max() +
+                    ans = Math.Max(ans, lowValue.GetViewBetween(0, A[i]).Max() +
                                    A[i] + maxSuffArr[i + 1]);
 
                     // Insert arr[i] in set<> for further
