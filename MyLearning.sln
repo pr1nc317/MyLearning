@@ -235,7 +235,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Space recycle", "Space recy
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set Matrix Zeros", "Set Matrix Zeros\Set Matrix Zeros.csproj", "{B2670756-50D4-4435-A662-F0A2F645DB84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Missing Integer", "First Missing Integer\First Missing Integer.csproj", "{169F975D-95E4-40BA-9CEA-4CB38E537DE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Missing Integer", "First Missing Integer\First Missing Integer.csproj", "{169F975D-95E4-40BA-9CEA-4CB38E537DE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Sum Square SubMatrix", "Maximum Sum Square SubMatrix\Maximum Sum Square SubMatrix.csproj", "{70C78873-0E5A-4896-94D1-01CBE3B8B167}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1513,6 +1515,18 @@ Global
 		{169F975D-95E4-40BA-9CEA-4CB38E537DE7}.Release|x64.Build.0 = Release|Any CPU
 		{169F975D-95E4-40BA-9CEA-4CB38E537DE7}.Release|x86.ActiveCfg = Release|Any CPU
 		{169F975D-95E4-40BA-9CEA-4CB38E537DE7}.Release|x86.Build.0 = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|x64.Build.0 = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Debug|x86.Build.0 = Debug|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|x64.ActiveCfg = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|x64.Build.0 = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|x86.ActiveCfg = Release|Any CPU
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1620,6 +1634,7 @@ Global
 		{60C1FEDF-72D3-4F73-AC2D-E1F0B986E66F} = {83C6E862-200A-47AB-B8ED-AE8ACF17DADB}
 		{B2670756-50D4-4435-A662-F0A2F645DB84} = {60C1FEDF-72D3-4F73-AC2D-E1F0B986E66F}
 		{169F975D-95E4-40BA-9CEA-4CB38E537DE7} = {60C1FEDF-72D3-4F73-AC2D-E1F0B986E66F}
+		{70C78873-0E5A-4896-94D1-01CBE3B8B167} = {60C1FEDF-72D3-4F73-AC2D-E1F0B986E66F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
