@@ -237,17 +237,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Set Matrix Zeros", "Set Mat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Missing Integer", "First Missing Integer\First Missing Integer.csproj", "{169F975D-95E4-40BA-9CEA-4CB38E537DE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Sum Square SubMatrix", "Maximum Sum Square SubMatrix\Maximum Sum Square SubMatrix.csproj", "{70C78873-0E5A-4896-94D1-01CBE3B8B167}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Sum Square SubMatrix", "Maximum Sum Square SubMatrix\Maximum Sum Square SubMatrix.csproj", "{70C78873-0E5A-4896-94D1-01CBE3B8B167}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simulation array", "Simulation array", "{FB722BC7-9A18-495B-9697-866104753B86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect Peak of Array", "Perfect Peak of Array\Perfect Peak of Array.csproj", "{06F12EB7-F616-4EF5-8561-8AED56FD0416}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Perfect Peak of Array", "Perfect Peak of Array\Perfect Peak of Array.csproj", "{06F12EB7-F616-4EF5-8561-8AED56FD0416}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth Row of Pascal's Triangle", "Kth Row of Pascal's Triangle\Kth Row of Pascal's Triangle.csproj", "{FEB379D8-2083-46FF-A2CF-3DA175ADA252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kth Row of Pascal's Triangle", "Kth Row of Pascal's Triangle\Kth Row of Pascal's Triangle.csproj", "{FEB379D8-2083-46FF-A2CF-3DA175ADA252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Order Matrix II", "Spiral Order Matrix II\Spiral Order Matrix II.csproj", "{824A955C-0990-45EA-B0E0-56E7166262EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Order Matrix II", "Spiral Order Matrix II\Spiral Order Matrix II.csproj", "{824A955C-0990-45EA-B0E0-56E7166262EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{98458379-923D-4E5E-B6F5-9BD94392B094}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{98458379-923D-4E5E-B6F5-9BD94392B094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anti Diagonals", "Anti Diagonals\Anti Diagonals.csproj", "{0F7541B8-3E97-4D17-B1C9-841782CD448D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Missing Or Repeated Number", "Missing Or Repeated Number", "{A82E98EA-71A8-4942-B53A-A10EC961031A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeat and Missing Number Array", "Repeat and Missing Number Array\Repeat and Missing Number Array.csproj", "{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1585,6 +1591,30 @@ Global
 		{98458379-923D-4E5E-B6F5-9BD94392B094}.Release|x64.Build.0 = Release|Any CPU
 		{98458379-923D-4E5E-B6F5-9BD94392B094}.Release|x86.ActiveCfg = Release|Any CPU
 		{98458379-923D-4E5E-B6F5-9BD94392B094}.Release|x86.Build.0 = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|x64.Build.0 = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Debug|x86.Build.0 = Debug|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|x64.ActiveCfg = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|x64.Build.0 = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|x86.ActiveCfg = Release|Any CPU
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D}.Release|x86.Build.0 = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|x64.Build.0 = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Debug|x86.Build.0 = Debug|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x64.ActiveCfg = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x64.Build.0 = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x86.ActiveCfg = Release|Any CPU
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1698,6 +1728,9 @@ Global
 		{FEB379D8-2083-46FF-A2CF-3DA175ADA252} = {FB722BC7-9A18-495B-9697-866104753B86}
 		{824A955C-0990-45EA-B0E0-56E7166262EB} = {FB722BC7-9A18-495B-9697-866104753B86}
 		{98458379-923D-4E5E-B6F5-9BD94392B094} = {FB722BC7-9A18-495B-9697-866104753B86}
+		{0F7541B8-3E97-4D17-B1C9-841782CD448D} = {FB722BC7-9A18-495B-9697-866104753B86}
+		{A82E98EA-71A8-4942-B53A-A10EC961031A} = {83C6E862-200A-47AB-B8ED-AE8ACF17DADB}
+		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9} = {A82E98EA-71A8-4942-B53A-A10EC961031A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
