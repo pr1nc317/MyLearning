@@ -249,11 +249,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Order Matrix II", "S
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal Triangle", "Pascal Triangle\Pascal Triangle.csproj", "{98458379-923D-4E5E-B6F5-9BD94392B094}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anti Diagonals", "Anti Diagonals\Anti Diagonals.csproj", "{0F7541B8-3E97-4D17-B1C9-841782CD448D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Anti Diagonals", "Anti Diagonals\Anti Diagonals.csproj", "{0F7541B8-3E97-4D17-B1C9-841782CD448D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Missing Or Repeated Number", "Missing Or Repeated Number", "{A82E98EA-71A8-4942-B53A-A10EC961031A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repeat and Missing Number Array", "Repeat and Missing Number Array\Repeat and Missing Number Array.csproj", "{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repeat and Missing Number Array", "Repeat and Missing Number Array\Repeat and Missing Number Array.csproj", "{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "N-by-3 Repeated Number", "N-by-3 Repeated Number\N-by-3 Repeated Number.csproj", "{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1615,6 +1617,18 @@ Global
 		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x64.Build.0 = Release|Any CPU
 		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x86.ActiveCfg = Release|Any CPU
 		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9}.Release|x86.Build.0 = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|x64.Build.0 = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Debug|x86.Build.0 = Debug|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|x64.ActiveCfg = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|x64.Build.0 = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|x86.ActiveCfg = Release|Any CPU
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1731,6 +1745,7 @@ Global
 		{0F7541B8-3E97-4D17-B1C9-841782CD448D} = {FB722BC7-9A18-495B-9697-866104753B86}
 		{A82E98EA-71A8-4942-B53A-A10EC961031A} = {83C6E862-200A-47AB-B8ED-AE8ACF17DADB}
 		{5A0FA9C0-EB5F-4471-80EE-C8CB36B257A9} = {A82E98EA-71A8-4942-B53A-A10EC961031A}
+		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265} = {A82E98EA-71A8-4942-B53A-A10EC961031A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
