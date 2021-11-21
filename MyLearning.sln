@@ -265,6 +265,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance Array", "Balance Ar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Duplicate in Array", "Find Duplicate in Array\Find Duplicate in Array.csproj", "{FA28416C-0696-4A45-B826-507E403869FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Consecutive Gap", "Maximum Consecutive Gap\Maximum Consecutive Gap.csproj", "{B9890006-82F5-418C-9DF4-D7B5800AC406}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1673,6 +1675,18 @@ Global
 		{FA28416C-0696-4A45-B826-507E403869FF}.Release|x64.Build.0 = Release|Any CPU
 		{FA28416C-0696-4A45-B826-507E403869FF}.Release|x86.ActiveCfg = Release|Any CPU
 		{FA28416C-0696-4A45-B826-507E403869FF}.Release|x86.Build.0 = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|x64.Build.0 = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Debug|x86.Build.0 = Debug|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|x64.ActiveCfg = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|x64.Build.0 = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|x86.ActiveCfg = Release|Any CPU
+		{B9890006-82F5-418C-9DF4-D7B5800AC406}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1794,6 +1808,7 @@ Global
 		{A8F7E2C6-8A75-4079-AA05-46DF1C05D265} = {A82E98EA-71A8-4942-B53A-A10EC961031A}
 		{AC248457-E0CD-456D-8B3C-1FE4447AB694} = {7013C824-1B6C-4C03-B199-578919F886F2}
 		{FA28416C-0696-4A45-B826-507E403869FF} = {7013C824-1B6C-4C03-B199-578919F886F2}
+		{B9890006-82F5-418C-9DF4-D7B5800AC406} = {7013C824-1B6C-4C03-B199-578919F886F2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
