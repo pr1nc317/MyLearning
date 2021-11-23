@@ -277,6 +277,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make Equal Elements Array",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segregate 0s and 1s in an array", "Segregate 0s and 1s in an array\Segregate 0s and 1s in an array.csproj", "{2B2153FC-70D9-4202-95EE-8CB92897834F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sum", "Array Sum\Array Sum.csproj", "{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1745,6 +1747,18 @@ Global
 		{2B2153FC-70D9-4202-95EE-8CB92897834F}.Release|x64.Build.0 = Release|Any CPU
 		{2B2153FC-70D9-4202-95EE-8CB92897834F}.Release|x86.ActiveCfg = Release|Any CPU
 		{2B2153FC-70D9-4202-95EE-8CB92897834F}.Release|x86.Build.0 = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|x64.Build.0 = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Debug|x86.Build.0 = Debug|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|x64.ActiveCfg = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|x64.Build.0 = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|x86.ActiveCfg = Release|Any CPU
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1872,6 +1886,7 @@ Global
 		{C930276A-B822-4878-A01B-6EFA87DDB309} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 		{E578036A-0C7B-4870-8C52-C045C2DD2DB0} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 		{2B2153FC-70D9-4202-95EE-8CB92897834F} = {726A8DE2-4760-4AB1-BE07-F98468861958}
+		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
