@@ -261,25 +261,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Triplets with Sum between g
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N-by-3 Repeated Number", "N-by-3 Repeated Number\N-by-3 Repeated Number.csproj", "{A8F7E2C6-8A75-4079-AA05-46DF1C05D265}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balance Array", "Balance Array\Balance Array.csproj", "{AC248457-E0CD-456D-8B3C-1FE4447AB694}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balance Array", "Balance Array\Balance Array.csproj", "{AC248457-E0CD-456D-8B3C-1FE4447AB694}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Duplicate in Array", "Find Duplicate in Array\Find Duplicate in Array.csproj", "{FA28416C-0696-4A45-B826-507E403869FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Duplicate in Array", "Find Duplicate in Array\Find Duplicate in Array.csproj", "{FA28416C-0696-4A45-B826-507E403869FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Consecutive Gap", "Maximum Consecutive Gap\Maximum Consecutive Gap.csproj", "{B9890006-82F5-418C-9DF4-D7B5800AC406}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Consecutive Gap", "Maximum Consecutive Gap\Maximum Consecutive Gap.csproj", "{B9890006-82F5-418C-9DF4-D7B5800AC406}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{726A8DE2-4760-4AB1-BE07-F98468861958}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reorder Data in Log Files", "Reorder Data in Log Files\Reorder Data in Log Files.csproj", "{ECF244FE-F2AD-41E3-86FA-3B033A42D6A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reorder Data in Log Files", "Reorder Data in Log Files\Reorder Data in Log Files.csproj", "{ECF244FE-F2AD-41E3-86FA-3B033A42D6A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Move Zeroes", "Move Zeroes\Move Zeroes.csproj", "{C930276A-B822-4878-A01B-6EFA87DDB309}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Move Zeroes", "Move Zeroes\Move Zeroes.csproj", "{C930276A-B822-4878-A01B-6EFA87DDB309}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make Equal Elements Array", "Make Equal Elements Array\Make Equal Elements Array.csproj", "{E578036A-0C7B-4870-8C52-C045C2DD2DB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Make Equal Elements Array", "Make Equal Elements Array\Make Equal Elements Array.csproj", "{E578036A-0C7B-4870-8C52-C045C2DD2DB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Segregate 0s and 1s in an array", "Segregate 0s and 1s in an array\Segregate 0s and 1s in an array.csproj", "{2B2153FC-70D9-4202-95EE-8CB92897834F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Segregate 0s and 1s in an array", "Segregate 0s and 1s in an array\Segregate 0s and 1s in an array.csproj", "{2B2153FC-70D9-4202-95EE-8CB92897834F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array Sum", "Array Sum\Array Sum.csproj", "{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array Sum", "Array Sum\Array Sum.csproj", "{FEB9D84B-88C1-4565-9FAB-B6212A4A491C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Occurence of Each Number", "Occurence of Each Number\Occurence of Each Number.csproj", "{6813B56D-F536-4E3F-912D-5B0EDB607B02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Occurence of Each Number", "Occurence of Each Number\Occurence of Each Number.csproj", "{6813B56D-F536-4E3F-912D-5B0EDB607B02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set Intersection", "Set Intersection\Set Intersection.csproj", "{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1773,6 +1775,18 @@ Global
 		{6813B56D-F536-4E3F-912D-5B0EDB607B02}.Release|x64.Build.0 = Release|Any CPU
 		{6813B56D-F536-4E3F-912D-5B0EDB607B02}.Release|x86.ActiveCfg = Release|Any CPU
 		{6813B56D-F536-4E3F-912D-5B0EDB607B02}.Release|x86.Build.0 = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|x64.Build.0 = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Debug|x86.Build.0 = Debug|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|x64.ActiveCfg = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|x64.Build.0 = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|x86.ActiveCfg = Release|Any CPU
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1902,6 +1916,7 @@ Global
 		{2B2153FC-70D9-4202-95EE-8CB92897834F} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 		{FEB9D84B-88C1-4565-9FAB-B6212A4A491C} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 		{6813B56D-F536-4E3F-912D-5B0EDB607B02} = {726A8DE2-4760-4AB1-BE07-F98468861958}
+		{D2041CEF-A9E1-4648-A0AA-2945A0AF3C78} = {726A8DE2-4760-4AB1-BE07-F98468861958}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
