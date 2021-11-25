@@ -293,6 +293,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verify Prime", "Verify Prim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prime Numbers", "Prime Numbers\Prime Numbers.csproj", "{1C88B839-B775-41C1-B5C3-71A8C50E2847}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binary Representation", "Binary Representation\Binary Representation.csproj", "{AE3D0044-FCBD-4923-B180-02E89D05EE4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1833,6 +1835,18 @@ Global
 		{1C88B839-B775-41C1-B5C3-71A8C50E2847}.Release|x64.Build.0 = Release|Any CPU
 		{1C88B839-B775-41C1-B5C3-71A8C50E2847}.Release|x86.ActiveCfg = Release|Any CPU
 		{1C88B839-B775-41C1-B5C3-71A8C50E2847}.Release|x86.Build.0 = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|x64.Build.0 = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Debug|x86.Build.0 = Debug|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|x64.ActiveCfg = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|x64.Build.0 = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|x86.ActiveCfg = Release|Any CPU
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1968,6 +1982,7 @@ Global
 		{3063E521-0DB4-41BF-822C-5E35A85E7742} = {012536A8-F0B1-4B6F-BFFA-17EDCB8B4C61}
 		{556E44FB-8BFC-4F45-953E-74DD3B69DCB3} = {012536A8-F0B1-4B6F-BFFA-17EDCB8B4C61}
 		{1C88B839-B775-41C1-B5C3-71A8C50E2847} = {012536A8-F0B1-4B6F-BFFA-17EDCB8B4C61}
+		{AE3D0044-FCBD-4923-B180-02E89D05EE4A} = {012536A8-F0B1-4B6F-BFFA-17EDCB8B4C61}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
