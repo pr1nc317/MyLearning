@@ -5,6 +5,7 @@
 
     class Program
     {
+        // Sieve of Eratosthenes
         public static List<int> Sieve(int A)
         {
             var arr = new bool[A + 1];
