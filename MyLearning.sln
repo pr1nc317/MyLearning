@@ -303,9 +303,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Distribute in Circle!", "Di
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Sum", "Prime Sum\Prime Sum.csproj", "{F07B28BF-B0DC-4543-8637-919A3CEF7DD1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of pairwise Hamming Distance", "Sum of pairwise Hamming Distance\Sum of pairwise Hamming Distance.csproj", "{2A59F79A-93B3-495E-93A7-429B9CC37AAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of pairwise Hamming Distance", "Sum of pairwise Hamming Distance\Sum of pairwise Hamming Distance.csproj", "{2A59F79A-93B3-495E-93A7-429B9CC37AAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4356A193-1F88-444F-85BF-6A5154786188}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4356A193-1F88-444F-85BF-6A5154786188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is Rectangle", "Is Rectangle\Is Rectangle.csproj", "{F6C3F5D3-306C-462E-B3E8-CB015869F115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1919,6 +1921,18 @@ Global
 		{4356A193-1F88-444F-85BF-6A5154786188}.Release|x64.Build.0 = Release|Any CPU
 		{4356A193-1F88-444F-85BF-6A5154786188}.Release|x86.ActiveCfg = Release|Any CPU
 		{4356A193-1F88-444F-85BF-6A5154786188}.Release|x86.Build.0 = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|x64.Build.0 = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Debug|x86.Build.0 = Debug|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|x64.ActiveCfg = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|x64.Build.0 = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|x86.ActiveCfg = Release|Any CPU
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2061,6 +2075,7 @@ Global
 		{F07B28BF-B0DC-4543-8637-919A3CEF7DD1} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 		{2A59F79A-93B3-495E-93A7-429B9CC37AAE} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 		{4356A193-1F88-444F-85BF-6A5154786188} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
+		{F6C3F5D3-306C-462E-B3E8-CB015869F115} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
