@@ -307,9 +307,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of pairwise Hamming Dis
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{4356A193-1F88-444F-85BF-6A5154786188}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Is Rectangle", "Is Rectangle\Is Rectangle.csproj", "{F6C3F5D3-306C-462E-B3E8-CB015869F115}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Is Rectangle", "Is Rectangle\Is Rectangle.csproj", "{F6C3F5D3-306C-462E-B3E8-CB015869F115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Step by Step", "Step by Step\Step by Step.csproj", "{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step by Step", "Step by Step\Step by Step.csproj", "{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power Of Two Integers", "Power Of Two Integers\Power Of Two Integers.csproj", "{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1947,6 +1949,18 @@ Global
 		{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30}.Release|x64.Build.0 = Release|Any CPU
 		{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30}.Release|x86.ActiveCfg = Release|Any CPU
 		{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30}.Release|x86.Build.0 = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|x64.Build.0 = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Debug|x86.Build.0 = Debug|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|x64.ActiveCfg = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|x64.Build.0 = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|x86.ActiveCfg = Release|Any CPU
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2091,6 +2105,7 @@ Global
 		{4356A193-1F88-444F-85BF-6A5154786188} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 		{F6C3F5D3-306C-462E-B3E8-CB015869F115} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 		{19ACE3B0-3A0A-42C6-A432-FA20E9A8CE30} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
+		{B766A538-DE87-4EAF-AAA8-77A2D9AEDB40} = {DC38EC36-AF88-43EF-9C02-CD08EABF2494}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
