@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Numbers_of_length_N_and_value_less_than_K</RootNamespace>
+  </PropertyGroup>
+
+</Project>
