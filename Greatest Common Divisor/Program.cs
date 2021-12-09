@@ -6,18 +6,30 @@
     {
         public static int GCD(int A, int B)
         {
-            if (A == 0) return B;
-            else if (B == 0) return A;
-            int small = A > B ? B : A;
-            int big = A < B ? B : A;
-            int s;
-            while (big % small != 0)
+            #region Solution 1
+            //if (A == 0) return B;
+            //else if (B == 0) return A;
+            //int small = A > B ? B : A;
+            //int big = A < B ? B : A;
+            //int s;
+            //while (big % small != 0)
+            //{
+            //    s = small;
+            //    small = big % small;
+            //    big = s;
+            //}
+            //return small;
+            #endregion
+
+            #region Optimized Solution
+            while (B != 0)
             {
-                s = small;
-                small = big % small;
-                big = s;
+                int rem = A % B;
+                A = B;
+                B = rem;
             }
-            return small;
+            return A;
+            #endregion
         }
 
         static void Main(string[] args)
