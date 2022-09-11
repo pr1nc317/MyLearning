@@ -16,9 +16,9 @@
             So our solution becomes: number of trailing zeros in n! = floor(n/5) + floor(n/25) + floor(n/125)
             */
             int sum = 0;
-            for (int i = 1; i <= 5; i++) //I have taken condition check as 5 because of the problem constraint which says n<=10000; 5 raise to 6 will exceed 10000
+            for (int i = 5; n/i >= 1; i *= 5)
             {
-                sum += (int)Math.Floor(n / Math.Pow(5, i));
+                sum += (int)Math.Floor((decimal)n/i);
             }
             return sum;
         }
