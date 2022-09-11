@@ -1,4 +1,4 @@
-﻿namespace ValidParentheses
+﻿namespace _20_ValidParentheses
 {
     using System;
     using System.Collections.Generic;
