@@ -363,6 +363,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172_FactorialTrailingZeroes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1839_LongestSubstringOfAllVowelsinOrder", "1839_LongestSubstringOfAllVowelsinOrder\1839_LongestSubstringOfAllVowelsinOrder.csproj", "{578081E9-276A-4A18-99F1-8CE90B78361E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13_RomantoInteger", "13_RomantoInteger\13_RomantoInteger.csproj", "{2A83F18C-202C-4CE7-BCC7-E70E7439318F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2215,6 +2217,18 @@ Global
 		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x64.Build.0 = Release|Any CPU
 		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x86.ActiveCfg = Release|Any CPU
 		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x86.Build.0 = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|x64.Build.0 = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Debug|x86.Build.0 = Debug|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|x64.ActiveCfg = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|x64.Build.0 = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|x86.ActiveCfg = Release|Any CPU
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2384,6 +2398,7 @@ Global
 		{4E65D52F-69F5-41C8-9FF3-923881B87678} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{6B3C320F-A18B-45DB-AC87-7F29183FAC47} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{578081E9-276A-4A18-99F1-8CE90B78361E} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{2A83F18C-202C-4CE7-BCC7-E70E7439318F} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
