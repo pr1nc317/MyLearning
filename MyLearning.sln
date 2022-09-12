@@ -361,6 +361,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20_ValidParentheses", "Vali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "172_FactorialTrailingZeroes", "172_FactorialTrailingZeroes\172_FactorialTrailingZeroes.csproj", "{6B3C320F-A18B-45DB-AC87-7F29183FAC47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1839_LongestSubstringOfAllVowelsinOrder", "1839_LongestSubstringOfAllVowelsinOrder\1839_LongestSubstringOfAllVowelsinOrder.csproj", "{578081E9-276A-4A18-99F1-8CE90B78361E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2201,6 +2203,18 @@ Global
 		{6B3C320F-A18B-45DB-AC87-7F29183FAC47}.Release|x64.Build.0 = Release|Any CPU
 		{6B3C320F-A18B-45DB-AC87-7F29183FAC47}.Release|x86.ActiveCfg = Release|Any CPU
 		{6B3C320F-A18B-45DB-AC87-7F29183FAC47}.Release|x86.Build.0 = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|x64.Build.0 = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Debug|x86.Build.0 = Debug|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x64.ActiveCfg = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x64.Build.0 = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x86.ActiveCfg = Release|Any CPU
+		{578081E9-276A-4A18-99F1-8CE90B78361E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2369,6 +2383,7 @@ Global
 		{D6E0A470-F47E-4A1D-B8A9-22C41B6E5744} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{4E65D52F-69F5-41C8-9FF3-923881B87678} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{6B3C320F-A18B-45DB-AC87-7F29183FAC47} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{578081E9-276A-4A18-99F1-8CE90B78361E} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
