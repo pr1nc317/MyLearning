@@ -397,6 +397,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_Trapping Rain Water", "4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Longest Substring Without Repeating Characters", "3_Longest Substring Without Repeating Characters\3_Longest Substring Without Repeating Characters.csproj", "{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002_Find Common Characters", "1002_Find Common Characters\1002_Find Common Characters.csproj", "{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -2453,6 +2455,18 @@ Global
 		{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}.Release|x64.Build.0 = Release|Any CPU
 		{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}.Release|x86.ActiveCfg = Release|Any CPU
 		{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}.Release|x86.Build.0 = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|x64.Build.0 = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Debug|x86.Build.0 = Debug|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x64.ActiveCfg = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x64.Build.0 = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x86.ActiveCfg = Release|Any CPU
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2639,6 +2653,7 @@ Global
 		{FECF1F47-F2B8-445A-A0DB-C9F5EF42FAB1} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{684BBB34-9CB4-419B-8A0E-847A4E5CDAE5} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{D1B70BA7-FF25-4F98-9E41-BDAE4F962806} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}

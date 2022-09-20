@@ -1,7 +1,6 @@
 ﻿namespace _3_Longest_Substring_Without_Repeating_Characters
 {
     using System;
-    using System.Text;
 
     class Program
     {
