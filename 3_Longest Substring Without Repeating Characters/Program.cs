@@ -15,7 +15,7 @@
                     int index = temp.IndexOf(s[i]) + tempLength;
                     temp = s.Substring(index + 1, i - index);
                     tempLength = index + 1;
-                    count = i - index;
+                    count = temp.Length;
                 }
                 else
                 {
@@ -30,7 +30,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine(LengthOfLongestSubstring("abbacbefbgh"));
-            Console.WriteLine(LengthOfLongestSubstring("dvdfvrtet"));
+            Console.WriteLine(LengthOfLongestSubstring("dvdbdfvrtet"));
             Console.WriteLine(LengthOfLongestSubstring("abadefbabc"));
             Console.WriteLine(LengthOfLongestSubstring("bbbbbbbb"));
             Console.WriteLine(LengthOfLongestSubstring("pwwkew"));
