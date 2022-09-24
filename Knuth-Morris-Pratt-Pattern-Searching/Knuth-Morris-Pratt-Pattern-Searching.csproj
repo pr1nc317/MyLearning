@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Knuth_Morris_Pratt_Pattern_Searching</RootNamespace>
+  </PropertyGroup>
+
+</Project>
