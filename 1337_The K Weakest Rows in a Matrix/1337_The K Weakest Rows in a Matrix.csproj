@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_1337_The_K_Weakest_Rows_in_a_Matrix</RootNamespace>
+  </PropertyGroup>
+
+</Project>
