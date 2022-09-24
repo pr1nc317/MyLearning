@@ -369,35 +369,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "234_PalindromeLinkedList", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "628_MaximumProductofThreeNumbers", "628_MaximumProductofThreeNumbers\628_MaximumProductofThreeNumbers.csproj", "{6E4FD6D2-6051-4C4A-BC55-A5E2BF7FD167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14_LongestCommonPrefix", "14_LongestCommonPrefix\14_LongestCommonPrefix.csproj", "{A8C69A55-1527-49A3-8547-0CF38DC8E4A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14_LongestCommonPrefix", "14_LongestCommonPrefix\14_LongestCommonPrefix.csproj", "{A8C69A55-1527-49A3-8547-0CF38DC8E4A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{F88E9949-9224-478D-907B-9C0544597005}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_TwoSum", "1_TwoSum\1_TwoSum.csproj", "{F88E9949-9224-478D-907B-9C0544597005}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66_PlusOne", "66_PlusOne\66_PlusOne.csproj", "{F3748446-9D94-4643-8DF7-7186158FF426}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "66_PlusOne", "66_PlusOne\66_PlusOne.csproj", "{F3748446-9D94-4643-8DF7-7186158FF426}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "58_LengthofLastWord", "58_LengthofLastWord\58_LengthofLastWord.csproj", "{9F56C6C2-65DC-44D5-A8C0-8E6A55F9B5FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "58_LengthofLastWord", "58_LengthofLastWord\58_LengthofLastWord.csproj", "{9F56C6C2-65DC-44D5-A8C0-8E6A55F9B5FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "383_RansomNote", "383_RansomNote\383_RansomNote.csproj", "{12AE9FBA-061A-4E55-B8A3-36F385290CD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "383_RansomNote", "383_RansomNote\383_RansomNote.csproj", "{12AE9FBA-061A-4E55-B8A3-36F385290CD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35_SearchInsertPosition", "35_SearchInsertPosition\35_SearchInsertPosition.csproj", "{3E95487A-DD38-4754-8E11-C2847DA31B55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35_SearchInsertPosition", "35_SearchInsertPosition\35_SearchInsertPosition.csproj", "{3E95487A-DD38-4754-8E11-C2847DA31B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69_Sqrt(x)", "69_Sqrt(x)\69_Sqrt(x).csproj", "{0E26874E-BEFD-40B7-AD76-B02BD9C597EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "69_Sqrt(x)", "69_Sqrt(x)\69_Sqrt(x).csproj", "{0E26874E-BEFD-40B7-AD76-B02BD9C597EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing", "1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing\1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing.csproj", "{E1EBD7F4-D35D-42CD-B288-B56F32BF5509}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing", "1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing\1909_RemoveOneElementtoMaketheArrayStrictlyIncreasing.csproj", "{E1EBD7F4-D35D-42CD-B288-B56F32BF5509}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "125_ValidPalindrome", "125_ValidPalindrome\125_ValidPalindrome.csproj", "{2629AF93-7864-4671-BA80-0500699039E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "125_ValidPalindrome", "125_ValidPalindrome\125_ValidPalindrome.csproj", "{2629AF93-7864-4671-BA80-0500699039E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "412_FizzBuzz", "412_FizzBuzz\412_FizzBuzz.csproj", "{1DCAF085-38C4-4FFA-BC7C-29A8821F18A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "412_FizzBuzz", "412_FizzBuzz\412_FizzBuzz.csproj", "{1DCAF085-38C4-4FFA-BC7C-29A8821F18A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "876_MiddleoftheLinkedList", "876_MiddleoftheLinkedList\876_MiddleoftheLinkedList.csproj", "{EC9505A6-4FAD-45E6-AC60-269014415F73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "876_MiddleoftheLinkedList", "876_MiddleoftheLinkedList\876_MiddleoftheLinkedList.csproj", "{EC9505A6-4FAD-45E6-AC60-269014415F73}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "859_Buddy Strings", "859_Buddy Strings\859_Buddy Strings.csproj", "{FECF1F47-F2B8-445A-A0DB-C9F5EF42FAB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "859_Buddy Strings", "859_Buddy Strings\859_Buddy Strings.csproj", "{FECF1F47-F2B8-445A-A0DB-C9F5EF42FAB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "42_Trapping Rain Water", "42_Trapping Rain Water\42_Trapping Rain Water.csproj", "{684BBB34-9CB4-419B-8A0E-847A4E5CDAE5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "42_Trapping Rain Water", "42_Trapping Rain Water\42_Trapping Rain Water.csproj", "{684BBB34-9CB4-419B-8A0E-847A4E5CDAE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Longest Substring Without Repeating Characters", "3_Longest Substring Without Repeating Characters\3_Longest Substring Without Repeating Characters.csproj", "{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Longest Substring Without Repeating Characters", "3_Longest Substring Without Repeating Characters\3_Longest Substring Without Repeating Characters.csproj", "{D1B70BA7-FF25-4F98-9E41-BDAE4F962806}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1002_Find Common Characters", "1002_Find Common Characters\1002_Find Common Characters.csproj", "{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1002_Find Common Characters", "1002_Find Common Characters\1002_Find Common Characters.csproj", "{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "718_Maximum Length of Repeated Subarray", "718_Maximum Length of Repeated Subarray\718_Maximum Length of Repeated Subarray.csproj", "{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Algorithms", "Algorithms", "{63594136-5B1A-41C7-96CF-3FF307EED24C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rabin-Karp-Pattern-Searching", "Rabin-Karp-Pattern-Searching\Rabin-Karp-Pattern-Searching.csproj", "{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2467,6 +2473,30 @@ Global
 		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x64.Build.0 = Release|Any CPU
 		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x86.ActiveCfg = Release|Any CPU
 		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428}.Release|x86.Build.0 = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|x64.Build.0 = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Debug|x86.Build.0 = Debug|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|x64.ActiveCfg = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|x64.Build.0 = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|x86.ActiveCfg = Release|Any CPU
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C}.Release|x86.Build.0 = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|x64.Build.0 = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Debug|x86.Build.0 = Debug|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|x64.ActiveCfg = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|x64.Build.0 = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|x86.ActiveCfg = Release|Any CPU
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2654,6 +2684,8 @@ Global
 		{684BBB34-9CB4-419B-8A0E-847A4E5CDAE5} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{D1B70BA7-FF25-4F98-9E41-BDAE4F962806} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{4D90FB4E-91F8-46C3-BDB1-CF9CC6D70428} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{034AE0BB-038C-4BB6-9771-4D1A1ABA468C} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{E30B0513-FEEB-4FDB-A45E-0F2D1DA7299B} = {63594136-5B1A-41C7-96CF-3FF307EED24C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
