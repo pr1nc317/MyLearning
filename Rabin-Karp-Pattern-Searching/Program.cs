@@ -4,6 +4,7 @@
 
     class Program
     {
+        // https://www.youtube.com/watch?v=qQ8vS2btsxI&list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O&index=75
         static void RabinKarp(string pat, string txt)
         {
             #region GFG implementation
