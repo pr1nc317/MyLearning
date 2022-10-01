@@ -417,9 +417,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21_Merge Two Sorted Lists",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26_Remove Duplicates from Sorted Array", "26_Remove Duplicates from Sorted Array\26_Remove Duplicates from Sorted Array.csproj", "{EF2F42B5-2FF0-44C3-8E15-92CE1D5D9190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70_Climbing Stairs", "70_Climbing Stairs\70_Climbing Stairs.csproj", "{F98F216D-CC16-45DA-A50E-ED22E9AC0228}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "70_Climbing Stairs", "70_Climbing Stairs\70_Climbing Stairs.csproj", "{F98F216D-CC16-45DA-A50E-ED22E9AC0228}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88_Merge Sorted Array", "88_Merge Sorted Array\88_Merge Sorted Array.csproj", "{E73DE534-0E61-4499-B8D1-51FE0B985479}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "88_Merge Sorted Array", "88_Merge Sorted Array\88_Merge Sorted Array.csproj", "{E73DE534-0E61-4499-B8D1-51FE0B985479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94_Binary Tree Inorder Traversal", "94_Binary Tree Inorder Traversal\94_Binary Tree Inorder Traversal.csproj", "{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2609,6 +2611,18 @@ Global
 		{E73DE534-0E61-4499-B8D1-51FE0B985479}.Release|x64.Build.0 = Release|Any CPU
 		{E73DE534-0E61-4499-B8D1-51FE0B985479}.Release|x86.ActiveCfg = Release|Any CPU
 		{E73DE534-0E61-4499-B8D1-51FE0B985479}.Release|x86.Build.0 = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|x64.Build.0 = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Debug|x86.Build.0 = Debug|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|x64.ActiveCfg = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|x64.Build.0 = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|x86.ActiveCfg = Release|Any CPU
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -2806,6 +2820,7 @@ Global
 		{EF2F42B5-2FF0-44C3-8E15-92CE1D5D9190} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{F98F216D-CC16-45DA-A50E-ED22E9AC0228} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 		{E73DE534-0E61-4499-B8D1-51FE0B985479} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
+		{6BBA4243-B14B-41F0-BF35-F77BDB29F11A} = {A613382A-0C1C-4C5E-B0F3-43B9B0BB21B9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
