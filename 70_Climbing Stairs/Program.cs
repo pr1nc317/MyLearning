@@ -6,6 +6,7 @@
     {
         static int ClimbStairs(int n)
         {
+            // Fibonacci Sequence
             int last = 1; int lastButOne = 0; int ans = 0;
             for (int i = 1; i <= n; i++)
             {
