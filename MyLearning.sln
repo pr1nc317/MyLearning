@@ -459,9 +459,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Positive Negative", "Positi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divisible by 60", "Divisible by 60\Divisible by 60.csproj", "{0E868E2E-97F3-404B-8DD9-6C6AA312184C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Powerful Divisors", "Powerful Divisors\Powerful Divisors.csproj", "{8A208976-7341-402D-865A-276E6F9ECA2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Powerful Divisors", "Powerful Divisors\Powerful Divisors.csproj", "{8A208976-7341-402D-865A-276E6F9ECA2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trailing Zeros in Factorial", "Trailing Zeros in Factorial\Trailing Zeros in Factorial.csproj", "{EB1FAF85-318B-4F98-9ED1-63463E82C4C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Trailing Zeros in Factorial", "Trailing Zeros in Factorial\Trailing Zeros in Factorial.csproj", "{EB1FAF85-318B-4F98-9ED1-63463E82C4C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorted Permutation Rank", "Sorted Permutation Rank\Sorted Permutation Rank.csproj", "{0651F076-36E0-4C00-B77F-CEF6FE775C4F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -2891,6 +2893,18 @@ Global
 		{EB1FAF85-318B-4F98-9ED1-63463E82C4C8}.Release|x64.Build.0 = Release|Any CPU
 		{EB1FAF85-318B-4F98-9ED1-63463E82C4C8}.Release|x86.ActiveCfg = Release|Any CPU
 		{EB1FAF85-318B-4F98-9ED1-63463E82C4C8}.Release|x86.Build.0 = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|x64.Build.0 = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Debug|x86.Build.0 = Debug|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|x64.ActiveCfg = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|x64.Build.0 = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|x86.ActiveCfg = Release|Any CPU
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3109,6 +3123,7 @@ Global
 		{0E868E2E-97F3-404B-8DD9-6C6AA312184C} = {6360A2C0-EA51-4A00-AFB7-6A2970E48E28}
 		{8A208976-7341-402D-865A-276E6F9ECA2C} = {6360A2C0-EA51-4A00-AFB7-6A2970E48E28}
 		{EB1FAF85-318B-4F98-9ED1-63463E82C4C8} = {6360A2C0-EA51-4A00-AFB7-6A2970E48E28}
+		{0651F076-36E0-4C00-B77F-CEF6FE775C4F} = {6360A2C0-EA51-4A00-AFB7-6A2970E48E28}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
