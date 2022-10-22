@@ -6,7 +6,7 @@
     {
         public static int LargestCoprimeDivisor(int A, int B)
         {
-            // find gcd of A and B and divide A by it until gcd of A and B becomes 1; 
+            // find gcd of A and B and divide A by it until gcd of A and B becomes 1
             var gcd = GCD(A, B);
             while (gcd != 1)
             {
