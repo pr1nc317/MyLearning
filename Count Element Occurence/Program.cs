@@ -40,7 +40,7 @@
                 else
                     end = mid - 1;
             }
-            return index;
+            return -1;
         }
         static void Main(string[] args)
         {
