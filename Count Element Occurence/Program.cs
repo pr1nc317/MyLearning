@@ -17,7 +17,7 @@
         {
             int start = 0;
             int end = A.Count - 1;
-            int index = -1;
+            int index;
             while (start <= end)
             {
                 int mid = (start + end) / 2;
