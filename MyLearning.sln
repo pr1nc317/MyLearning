@@ -525,6 +525,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple binary search", "Sim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search in Bitonic Array!", "Search in Bitonic Array!\Search in Bitonic Array!.csproj", "{79BFDC02-2C71-40C2-8256-64E5C1DDFE1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Smaller or equal elements", "Smaller or equal elements\Smaller or equal elements.csproj", "{9137A966-127F-412E-BB59-019FBEDCE1EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -3241,6 +3243,18 @@ Global
 		{79BFDC02-2C71-40C2-8256-64E5C1DDFE1C}.Release|x64.Build.0 = Release|Any CPU
 		{79BFDC02-2C71-40C2-8256-64E5C1DDFE1C}.Release|x86.ActiveCfg = Release|Any CPU
 		{79BFDC02-2C71-40C2-8256-64E5C1DDFE1C}.Release|x86.Build.0 = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|x64.Build.0 = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Debug|x86.Build.0 = Debug|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|x64.ActiveCfg = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|x64.Build.0 = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|x86.ActiveCfg = Release|Any CPU
+		{9137A966-127F-412E-BB59-019FBEDCE1EE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3490,6 +3504,7 @@ Global
 		{FA435C0A-BF75-468A-BAE2-1B587C4318BD} = {5F285181-2FA4-403A-A21F-5C6629E57179}
 		{7FC7B492-1AFB-4687-AFA3-4B4B80D34E37} = {FA435C0A-BF75-468A-BAE2-1B587C4318BD}
 		{79BFDC02-2C71-40C2-8256-64E5C1DDFE1C} = {7FC7B492-1AFB-4687-AFA3-4B4B80D34E37}
+		{9137A966-127F-412E-BB59-019FBEDCE1EE} = {7FC7B492-1AFB-4687-AFA3-4B4B80D34E37}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
