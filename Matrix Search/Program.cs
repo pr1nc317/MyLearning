@@ -16,15 +16,6 @@
                 int mid = (start + end) / 2;
                 int r = mid / cols;
                 int c = mid % cols;
-                //if (c > 0)
-                //{
-                //    c--;
-                //}
-                //else if (c == 0 && r > 0)
-                //{
-                //    c = cols - 1;
-                //    r--;
-                //}
                 if (A[r][c] == B) return 1;
                 else if (A[r][c] > B) end = mid - 1;
                 else start = mid + 1;
