@@ -535,11 +535,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search for a Range", "Searc
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square Root of Integer", "Square Root of Integer\Square Root of Integer.csproj", "{A3F0CC70-5748-4153-820C-FAB309220308}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sorted Insert Position", "Sorted Insert Position\Sorted Insert Position.csproj", "{1DF3B58E-D062-4E24-B7C3-F3149A5290F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sorted Insert Position", "Sorted Insert Position\Sorted Insert Position.csproj", "{1DF3B58E-D062-4E24-B7C3-F3149A5290F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search answer", "Search answer", "{8974EECB-2D59-4F30-A488-B23654C16145}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capacity To Ship Packages Within B Days", "Capacity To Ship Packages Within B Days\Capacity To Ship Packages Within B Days.csproj", "{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capacity To Ship Packages Within B Days", "Capacity To Ship Packages Within B Days\Capacity To Ship Packages Within B Days.csproj", "{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Median", "Matrix Median\Matrix Median.csproj", "{C9840214-EBD5-4AB9-9918-FE93C2F2F254}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3341,6 +3343,18 @@ Global
 		{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}.Release|x64.Build.0 = Release|Any CPU
 		{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}.Release|x86.ActiveCfg = Release|Any CPU
 		{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}.Release|x86.Build.0 = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|x64.Build.0 = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Debug|x86.Build.0 = Debug|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|x64.ActiveCfg = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|x64.Build.0 = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|x86.ActiveCfg = Release|Any CPU
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3598,6 +3612,7 @@ Global
 		{1DF3B58E-D062-4E24-B7C3-F3149A5290F7} = {7FC7B492-1AFB-4687-AFA3-4B4B80D34E37}
 		{8974EECB-2D59-4F30-A488-B23654C16145} = {FA435C0A-BF75-468A-BAE2-1B587C4318BD}
 		{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4} = {8974EECB-2D59-4F30-A488-B23654C16145}
+		{C9840214-EBD5-4AB9-9918-FE93C2F2F254} = {8974EECB-2D59-4F30-A488-B23654C16145}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
