@@ -541,27 +541,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search answer", "Search ans
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Capacity To Ship Packages Within B Days", "Capacity To Ship Packages Within B Days\Capacity To Ship Packages Within B Days.csproj", "{ADDE9B4D-0F69-4BBF-8311-0CA9FB9FF7E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix Median", "Matrix Median\Matrix Median.csproj", "{C9840214-EBD5-4AB9-9918-FE93C2F2F254}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matrix Median", "Matrix Median\Matrix Median.csproj", "{C9840214-EBD5-4AB9-9918-FE93C2F2F254}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Allocate Books", "Allocate Books\Allocate Books.csproj", "{2DA39DA7-8FE5-4BC6-98A4-EB2BC662056B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Allocate Books", "Allocate Books\Allocate Books.csproj", "{2DA39DA7-8FE5-4BC6-98A4-EB2BC662056B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Painter's Partition Problem", "Painter's Partition Problem\Painter's Partition Problem.csproj", "{EF018AD3-40CC-4A9F-A9C8-5E922C80B5C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Painter's Partition Problem", "Painter's Partition Problem\Painter's Partition Problem.csproj", "{EF018AD3-40CC-4A9F-A9C8-5E922C80B5C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Request X Chocolates", "Request X Chocolates\Request X Chocolates.csproj", "{D27B6FB8-D95B-4D90-851F-57CBAD5BF195}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Request X Chocolates", "Request X Chocolates\Request X Chocolates.csproj", "{D27B6FB8-D95B-4D90-851F-57CBAD5BF195}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Red Zone", "Red Zone\Red Zone.csproj", "{AE4E9D28-E83F-43CF-8382-1CB30A9CCC56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Red Zone", "Red Zone\Red Zone.csproj", "{AE4E9D28-E83F-43CF-8382-1CB30A9CCC56}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Search step simulation", "Search step simulation", "{5C66E52F-E8CF-438A-A210-3F223DE6493A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement Power Function", "Implement Power Function\Implement Power Function.csproj", "{6555EF5C-631A-4C5C-BC04-1F73DDBBF95D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement Power Function", "Implement Power Function\Implement Power Function.csproj", "{6555EF5C-631A-4C5C-BC04-1F73DDBBF95D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Queries", "Simple Queries\Simple Queries.csproj", "{0FFB801C-7088-4870-8383-D7AB7EAFD6AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simple Queries", "Simple Queries\Simple Queries.csproj", "{0FFB801C-7088-4870-8383-D7AB7EAFD6AF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sort modification", "Sort modification", "{A7F81ED4-4159-4D21-B0E8-06D02F3C2835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Median of Array", "Median of Array\Median of Array.csproj", "{EA52A474-4B3F-439E-88B4-D2E97BA31222}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Median of Array", "Median of Array\Median of Array.csproj", "{EA52A474-4B3F-439E-88B4-D2E97BA31222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotated Sorted Array Search", "Rotated Sorted Array Search\Rotated Sorted Array Search.csproj", "{80A48946-A93D-48CA-9960-1823DD696516}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rotated Sorted Array Search", "Rotated Sorted Array Search\Rotated Sorted Array Search.csproj", "{80A48946-A93D-48CA-9960-1823DD696516}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Strings", "5. Strings", "{828488E3-EDE3-4AEB-A80C-7FCB854B1D8F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{C25475E9-148D-4080-AEB2-DB538AAFF9C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String simulation", "String simulation", "{B055EE98-3D68-4BDA-AF39-A0EA92931D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome String", "Palindrome String\Palindrome String.csproj", "{E816B4F3-5152-43A9-8953-E9BB21CE96FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3471,6 +3479,18 @@ Global
 		{80A48946-A93D-48CA-9960-1823DD696516}.Release|x64.Build.0 = Release|Any CPU
 		{80A48946-A93D-48CA-9960-1823DD696516}.Release|x86.ActiveCfg = Release|Any CPU
 		{80A48946-A93D-48CA-9960-1823DD696516}.Release|x86.Build.0 = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|x64.Build.0 = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Debug|x86.Build.0 = Debug|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|x64.ActiveCfg = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|x64.Build.0 = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|x86.ActiveCfg = Release|Any CPU
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3739,6 +3759,10 @@ Global
 		{A7F81ED4-4159-4D21-B0E8-06D02F3C2835} = {FA435C0A-BF75-468A-BAE2-1B587C4318BD}
 		{EA52A474-4B3F-439E-88B4-D2E97BA31222} = {A7F81ED4-4159-4D21-B0E8-06D02F3C2835}
 		{80A48946-A93D-48CA-9960-1823DD696516} = {A7F81ED4-4159-4D21-B0E8-06D02F3C2835}
+		{828488E3-EDE3-4AEB-A80C-7FCB854B1D8F} = {ADEBF02A-DAFA-47C5-9497-13DF0E910A74}
+		{C25475E9-148D-4080-AEB2-DB538AAFF9C1} = {828488E3-EDE3-4AEB-A80C-7FCB854B1D8F}
+		{B055EE98-3D68-4BDA-AF39-A0EA92931D03} = {C25475E9-148D-4080-AEB2-DB538AAFF9C1}
+		{E816B4F3-5152-43A9-8953-E9BB21CE96FC} = {B055EE98-3D68-4BDA-AF39-A0EA92931D03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
