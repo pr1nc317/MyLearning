@@ -20,7 +20,7 @@
                     end--;
                     continue;
                 }
-                if (A[start].ToString().ToLower() != A[end].ToString().ToLower())
+                if (ToLowerCase(A[start]) != ToLowerCase(A[end]))
                 {
                     return 0;
                 }
@@ -40,6 +40,12 @@
                 return true;
             }
             else return false;
+        }
+
+        public static char ToLowerCase(char ch)
+        {
+            if (ch >= 'a' && ch <= 'z') return ch;
+            else return (char)(ch - 'A' + 'a');
         }
 
         static void Main(string[] args)
