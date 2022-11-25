@@ -585,6 +585,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulls and Cows", "Bulls and
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self Permutation", "Self Permutation\Self Permutation.csproj", "{87D7A813-9085-49B9-BA8E-46B3E1A11D69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{D89D826E-6833-45F3-8035-8A5C3403EF33}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -3589,6 +3591,18 @@ Global
 		{87D7A813-9085-49B9-BA8E-46B3E1A11D69}.Release|x64.Build.0 = Release|Any CPU
 		{87D7A813-9085-49B9-BA8E-46B3E1A11D69}.Release|x86.ActiveCfg = Release|Any CPU
 		{87D7A813-9085-49B9-BA8E-46B3E1A11D69}.Release|x86.Build.0 = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|x64.Build.0 = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Debug|x86.Build.0 = Debug|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|x64.ActiveCfg = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|x64.Build.0 = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|x86.ActiveCfg = Release|Any CPU
+		{D89D826E-6833-45F3-8035-8A5C3403EF33}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -3868,6 +3882,7 @@ Global
 		{59F18C73-FC3F-4AAB-84B8-0BD7779B72A3} = {B055EE98-3D68-4BDA-AF39-A0EA92931D03}
 		{1346C7F2-AAE8-451D-953D-98D690A8B4D8} = {B055EE98-3D68-4BDA-AF39-A0EA92931D03}
 		{87D7A813-9085-49B9-BA8E-46B3E1A11D69} = {B055EE98-3D68-4BDA-AF39-A0EA92931D03}
+		{D89D826E-6833-45F3-8035-8A5C3403EF33} = {B055EE98-3D68-4BDA-AF39-A0EA92931D03}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
