@@ -70,23 +70,14 @@
             int p = 0;
             // hash for text
             int t = 0;
-            //// hasing factor
-            //int h = 1;
             // base value for hashing
             int d = 10;
             int i, j;
-            //// hashing factor should be d^(m-1)%mod
-            //for (i = 1; i <= m - 1; i++)
-            //{
-            //    h = (h * d) % mod;
-            //}
             // calculate hash value of pattern and first window of text
             for (i = 0; i < m; i++)
             {
                 p = ((int)Math.Pow(d, m - 1 - i) * pat[i] + p) % mod;
                 t = ((int)Math.Pow(d, m - 1 - i) * txt[i] + t) % mod;
-                //p = (d * p + pat[i]) % mod;
-                //t = (d * t + txt[i]) % mod;
             }
             // traverse the text
             for (i = 0; i <= n - m; i++)
