@@ -571,47 +571,51 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String simulation", "String
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome String", "Palindrome String\Palindrome String.csproj", "{E816B4F3-5152-43A9-8953-E9BB21CE96FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vowel and Consonant Substrings!", "Vowel and Consonant Substrings!\Vowel and Consonant Substrings!.csproj", "{8851F3C7-58D5-43B2-9764-9D16379AFD8F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Vowel and Consonant Substrings!", "Vowel and Consonant Substrings!\Vowel and Consonant Substrings!.csproj", "{8851F3C7-58D5-43B2-9764-9D16379AFD8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Consecutive Characters", "Remove Consecutive Characters\Remove Consecutive Characters.csproj", "{C7313D9F-E967-411F-9F7D-A26A7B3A332E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Consecutive Characters", "Remove Consecutive Characters\Remove Consecutive Characters.csproj", "{C7313D9F-E967-411F-9F7D-A26A7B3A332E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialize", "Serialize\Serialize.csproj", "{1CF85108-F927-495C-B39D-E314A3618207}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Serialize", "Serialize\Serialize.csproj", "{1CF85108-F927-495C-B39D-E314A3618207}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deserialize", "Deserialize\Deserialize.csproj", "{AB298269-5A75-445F-B5E9-57ED656CA58F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Deserialize", "Deserialize\Deserialize.csproj", "{AB298269-5A75-445F-B5E9-57ED656CA58F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String And Its Frequency", "String And Its Frequency\String And Its Frequency.csproj", "{59F18C73-FC3F-4AAB-84B8-0BD7779B72A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String And Its Frequency", "String And Its Frequency\String And Its Frequency.csproj", "{59F18C73-FC3F-4AAB-84B8-0BD7779B72A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulls and Cows", "Bulls and Cows\Bulls and Cows.csproj", "{1346C7F2-AAE8-451D-953D-98D690A8B4D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulls and Cows", "Bulls and Cows\Bulls and Cows.csproj", "{1346C7F2-AAE8-451D-953D-98D690A8B4D8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Self Permutation", "Self Permutation\Self Permutation.csproj", "{87D7A813-9085-49B9-BA8E-46B3E1A11D69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Self Permutation", "Self Permutation\Self Permutation.csproj", "{87D7A813-9085-49B9-BA8E-46B3E1A11D69}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{D89D826E-6833-45F3-8035-8A5C3403EF33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Common Prefix", "Longest Common Prefix\Longest Common Prefix.csproj", "{D89D826E-6833-45F3-8035-8A5C3403EF33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count And Say", "Count And Say\Count And Say.csproj", "{7B7C3B82-9A1C-4A06-B64E-93F7ABD0D8A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count And Say", "Count And Say\Count And Say.csproj", "{7B7C3B82-9A1C-4A06-B64E-93F7ABD0D8A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String parsing", "String parsing", "{C8BE1D02-EC24-4E3D-8197-F05601FD7360}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert the amount in number to words", "Convert the amount in number to words\Convert the amount in number to words.csproj", "{6D5C7726-7DEE-4ED7-B4BD-4B39A7A8A798}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert the amount in number to words", "Convert the amount in number to words\Convert the amount in number to words.csproj", "{6D5C7726-7DEE-4ED7-B4BD-4B39A7A8A798}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare Version Numbers", "Compare Version Numbers\Compare Version Numbers.csproj", "{04C55778-D7CA-44E4-A973-82BC02A478B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare Version Numbers", "Compare Version Numbers\Compare Version Numbers.csproj", "{04C55778-D7CA-44E4-A973-82BC02A478B0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atoi", "Atoi\Atoi.csproj", "{B56E3D40-3445-469F-AD37-16DC31C36139}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atoi", "Atoi\Atoi.csproj", "{B56E3D40-3445-469F-AD37-16DC31C36139}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Ip Addresses", "Valid Ip Addresses\Valid Ip Addresses.csproj", "{E2121898-6A1B-47FF-AAC2-632330701C13}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Ip Addresses", "Valid Ip Addresses\Valid Ip Addresses.csproj", "{E2121898-6A1B-47FF-AAC2-632330701C13}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{EA5712C3-39BF-49CE-B7AF-65CCD78759A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Length of Last Word", "Length of Last Word\Length of Last Word.csproj", "{EA5712C3-39BF-49CE-B7AF-65CCD78759A3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Words", "Words", "{081679B4-0165-4BFB-910B-6596257ADAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse the String", "Reverse the String\Reverse the String.csproj", "{BFBAA66D-8400-4D19-AA77-1A8D6C207E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse the String", "Reverse the String\Reverse the String.csproj", "{BFBAA66D-8400-4D19-AA77-1A8D6C207E00}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String search", "String search", "{2822C8F2-4888-4B16-B17A-4511A3DC3B6A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazing Subarrays", "Amazing Subarrays\Amazing Subarrays.csproj", "{A77851A8-129B-4028-A3B5-888497273895}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Amazing Subarrays", "Amazing Subarrays\Amazing Subarrays.csproj", "{A77851A8-129B-4028-A3B5-888497273895}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Implement StrStr", "Implement StrStr\Implement StrStr.csproj", "{C932E11E-F5FE-4BD9-AD38-06ECADED1859}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Implement StrStr", "Implement StrStr\Implement StrStr.csproj", "{C932E11E-F5FE-4BD9-AD38-06ECADED1859}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringoholics", "Stringoholics\Stringoholics.csproj", "{B64EABDF-7806-4ED7-9C6D-051F61B78945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stringoholics", "Stringoholics\Stringoholics.csproj", "{B64EABDF-7806-4ED7-9C6D-051F61B78945}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pretty print", "Pretty print", "{9A9D2E57-67F1-4C89-BA02-63790B07A968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zigzag String", "Zigzag String\Zigzag String.csproj", "{99DABC01-284E-407C-872E-80CBE0BED406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3749,6 +3753,18 @@ Global
 		{B64EABDF-7806-4ED7-9C6D-051F61B78945}.Release|x64.Build.0 = Release|Any CPU
 		{B64EABDF-7806-4ED7-9C6D-051F61B78945}.Release|x86.ActiveCfg = Release|Any CPU
 		{B64EABDF-7806-4ED7-9C6D-051F61B78945}.Release|x86.Build.0 = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|x64.Build.0 = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Debug|x86.Build.0 = Debug|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|x64.ActiveCfg = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|x64.Build.0 = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|x86.ActiveCfg = Release|Any CPU
+		{99DABC01-284E-407C-872E-80CBE0BED406}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4042,6 +4058,8 @@ Global
 		{A77851A8-129B-4028-A3B5-888497273895} = {2822C8F2-4888-4B16-B17A-4511A3DC3B6A}
 		{C932E11E-F5FE-4BD9-AD38-06ECADED1859} = {2822C8F2-4888-4B16-B17A-4511A3DC3B6A}
 		{B64EABDF-7806-4ED7-9C6D-051F61B78945} = {2822C8F2-4888-4B16-B17A-4511A3DC3B6A}
+		{9A9D2E57-67F1-4C89-BA02-63790B07A968} = {C25475E9-148D-4080-AEB2-DB538AAFF9C1}
+		{99DABC01-284E-407C-872E-80CBE0BED406} = {9A9D2E57-67F1-4C89-BA02-63790B07A968}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
