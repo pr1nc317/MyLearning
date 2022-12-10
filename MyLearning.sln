@@ -631,21 +631,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Appends for Palindr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Parantheses!", "Minimum Parantheses!\Minimum Parantheses!.csproj", "{A36C885F-E4A0-4A3A-96C0-844993D91C7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{815FFCC1-0D81-457D-8D2F-E39D20CB7043}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Longest Palindromic Substring", "Longest Palindromic Substring\Longest Palindromic Substring.csproj", "{815FFCC1-0D81-457D-8D2F-E39D20CB7043}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "String math", "String math", "{E57AA3BB-EDFF-4E6E-8584-BBEBDC635752}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salutes", "Salutes\Salutes.csproj", "{03060AEA-BEB5-4AE9-A59F-D749482229D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Salutes", "Salutes\Salutes.csproj", "{03060AEA-BEB5-4AE9-A59F-D749482229D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer To Roman", "Integer To Roman\Integer To Roman.csproj", "{B9C86C3D-3DB2-4B3F-8648-79E5D124DD6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integer To Roman", "Integer To Roman\Integer To Roman.csproj", "{B9C86C3D-3DB2-4B3F-8648-79E5D124DD6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{9336B7F4-4DC9-453D-AE22-DBF14F2048C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Roman To Integer", "Roman To Integer\Roman To Integer.csproj", "{9336B7F4-4DC9-453D-AE22-DBF14F2048C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiply Strings", "Multiply Strings\Multiply Strings.csproj", "{C355100D-F02F-42DA-9141-13617681E981}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multiply Strings", "Multiply Strings\Multiply Strings.csproj", "{C355100D-F02F-42DA-9141-13617681E981}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Binary Strings", "Add Binary Strings\Add Binary Strings.csproj", "{EF31392A-7057-4676-883D-31989605233F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Binary Strings", "Add Binary Strings\Add Binary Strings.csproj", "{EF31392A-7057-4676-883D-31989605233F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power of 2", "Power of 2\Power of 2.csproj", "{529496CE-95FE-4B07-9903-D9FE3368D349}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power of 2", "Power of 2\Power of 2.csproj", "{529496CE-95FE-4B07-9903-D9FE3368D349}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{6D1EE328-8670-419B-A96F-6DE943481DA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Frequencies", "Character Frequencies\Character Frequencies.csproj", "{92419337-D6E0-45CB-A370-A887B830366F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -3951,6 +3955,18 @@ Global
 		{529496CE-95FE-4B07-9903-D9FE3368D349}.Release|x64.Build.0 = Release|Any CPU
 		{529496CE-95FE-4B07-9903-D9FE3368D349}.Release|x86.ActiveCfg = Release|Any CPU
 		{529496CE-95FE-4B07-9903-D9FE3368D349}.Release|x86.Build.0 = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|x64.Build.0 = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Debug|x86.Build.0 = Debug|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|x64.ActiveCfg = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|x64.Build.0 = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|x86.ActiveCfg = Release|Any CPU
+		{92419337-D6E0-45CB-A370-A887B830366F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4261,6 +4277,8 @@ Global
 		{C355100D-F02F-42DA-9141-13617681E981} = {E57AA3BB-EDFF-4E6E-8584-BBEBDC635752}
 		{EF31392A-7057-4676-883D-31989605233F} = {E57AA3BB-EDFF-4E6E-8584-BBEBDC635752}
 		{529496CE-95FE-4B07-9903-D9FE3368D349} = {E57AA3BB-EDFF-4E6E-8584-BBEBDC635752}
+		{6D1EE328-8670-419B-A96F-6DE943481DA8} = {C25475E9-148D-4080-AEB2-DB538AAFF9C1}
+		{92419337-D6E0-45CB-A370-A887B830366F} = {6D1EE328-8670-419B-A96F-6DE943481DA8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
