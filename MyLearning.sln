@@ -649,17 +649,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Power of 2", "Power of 2\Po
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{6D1EE328-8670-419B-A96F-6DE943481DA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Character Frequencies", "Character Frequencies\Character Frequencies.csproj", "{92419337-D6E0-45CB-A370-A887B830366F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Character Frequencies", "Character Frequencies\Character Frequencies.csproj", "{92419337-D6E0-45CB-A370-A887B830366F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Frequency Of Characters", "Frequency Of Characters\Frequency Of Characters.csproj", "{010F253B-B4AE-4572-B17D-AE4460B81158}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frequency Of Characters", "Frequency Of Characters\Frequency Of Characters.csproj", "{010F253B-B4AE-4572-B17D-AE4460B81158}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Substring", "Maximum Substring\Maximum Substring.csproj", "{0EE4A3A2-AEC2-4B74-AB44-2E381B120EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Substring", "Maximum Substring\Maximum Substring.csproj", "{0EE4A3A2-AEC2-4B74-AB44-2E381B120EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic Words", "Palindromic Words\Palindromic Words.csproj", "{3202F975-3132-4A44-8787-BED81674732A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromic Words", "Palindromic Words\Palindromic Words.csproj", "{3202F975-3132-4A44-8787-BED81674732A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "String Inversion", "String Inversion\String Inversion.csproj", "{2A11D9EE-B421-4604-8A95-2CFCED1D38E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "String Inversion", "String Inversion\String Inversion.csproj", "{2A11D9EE-B421-4604-8A95-2CFCED1D38E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Valid Password", "Valid Password\Valid Password.csproj", "{6718B00F-126B-49A5-93C5-D493A75EB9EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Valid Password", "Valid Password\Valid Password.csproj", "{6718B00F-126B-49A5-93C5-D493A75EB9EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Bit Manipulation", "6. Bit Manipulation", "{31ABF57C-03B2-454B-BD7C-2986D239E4E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{2A267AAA-514D-4EA6-8417-91C39C98F9D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Bit play", "1. Bit play", "{B1C37FE5-65FE-41DE-8E4E-6FBEAD3DBE92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Number Of 1 Bits", "Number Of 1 Bits\Number Of 1 Bits.csproj", "{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4037,6 +4045,18 @@ Global
 		{6718B00F-126B-49A5-93C5-D493A75EB9EE}.Release|x64.Build.0 = Release|Any CPU
 		{6718B00F-126B-49A5-93C5-D493A75EB9EE}.Release|x86.ActiveCfg = Release|Any CPU
 		{6718B00F-126B-49A5-93C5-D493A75EB9EE}.Release|x86.Build.0 = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|x64.Build.0 = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Debug|x86.Build.0 = Debug|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|x64.ActiveCfg = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|x64.Build.0 = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|x86.ActiveCfg = Release|Any CPU
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4354,6 +4374,10 @@ Global
 		{3202F975-3132-4A44-8787-BED81674732A} = {6D1EE328-8670-419B-A96F-6DE943481DA8}
 		{2A11D9EE-B421-4604-8A95-2CFCED1D38E5} = {6D1EE328-8670-419B-A96F-6DE943481DA8}
 		{6718B00F-126B-49A5-93C5-D493A75EB9EE} = {6D1EE328-8670-419B-A96F-6DE943481DA8}
+		{31ABF57C-03B2-454B-BD7C-2986D239E4E1} = {ADEBF02A-DAFA-47C5-9497-13DF0E910A74}
+		{2A267AAA-514D-4EA6-8417-91C39C98F9D4} = {31ABF57C-03B2-454B-BD7C-2986D239E4E1}
+		{B1C37FE5-65FE-41DE-8E4E-6FBEAD3DBE92} = {2A267AAA-514D-4EA6-8417-91C39C98F9D4}
+		{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C} = {B1C37FE5-65FE-41DE-8E4E-6FBEAD3DBE92}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
