@@ -665,7 +665,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6. Bit Manipulation", "6. B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{2A267AAA-514D-4EA6-8417-91C39C98F9D4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Bit play", "1. Bit play", "{B1C37FE5-65FE-41DE-8E4E-6FBEAD3DBE92}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bit play", "Bit play", "{B1C37FE5-65FE-41DE-8E4E-6FBEAD3DBE92}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number Of 1 Bits", "Number Of 1 Bits\Number Of 1 Bits.csproj", "{31C9F70B-BB43-4FF5-9184-F2BFD11F9C9C}"
 EndProject
@@ -677,13 +677,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Divide Integers", "Divide I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Different Bits Sum Pairwise", "Different Bits Sum Pairwise\Different Bits Sum Pairwise.csproj", "{D0B58786-7186-4C98-B72E-93412ECBD00C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Bit array", "2. Bit array", "{05F73074-CE53-418B-9F3D-F6DC29284DA8}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bit array", "Bit array", "{05F73074-CE53-418B-9F3D-F6DC29284DA8}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single Number", "Single Number\Single Number.csproj", "{785870FA-C8A5-486A-86B0-9663C78B1BCF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single Number II", "Single Number II\Single Number II.csproj", "{92E1F23B-5501-4C60-BA97-6921312BE62E}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Bit tricks", "3. Bit tricks", "{CE1F271D-A6A8-4F34-ACC8-7BE7B066EB07}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Bit tricks", "Bit tricks", "{CE1F271D-A6A8-4F34-ACC8-7BE7B066EB07}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min XOR value", "Min XOR value\Min XOR value.csproj", "{29D1BEA6-9B2A-43AD-9193-C4BB501AD961}"
 EndProject
@@ -692,6 +692,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xor-ing the subarrays", "xor-ing the subarrays\xor-ing the subarrays.csproj", "{8F0F8A25-2ED5-4345-931C-61DEFBF83A93}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindromic Binary Representation", "Palindromic Binary Representation\Palindromic Binary Representation.csproj", "{564F1B7A-CD14-45A4-A969-ED83D8F4659B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{B29C3EB2-448F-4CE8-9B4B-592DC2ED0690}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bit Flipping", "Bit Flipping\Bit Flipping.csproj", "{63A82043-A4BE-4139-AB46-15A307837A5A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4201,6 +4205,18 @@ Global
 		{564F1B7A-CD14-45A4-A969-ED83D8F4659B}.Release|x64.Build.0 = Release|Any CPU
 		{564F1B7A-CD14-45A4-A969-ED83D8F4659B}.Release|x86.ActiveCfg = Release|Any CPU
 		{564F1B7A-CD14-45A4-A969-ED83D8F4659B}.Release|x86.Build.0 = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|x64.Build.0 = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Debug|x86.Build.0 = Debug|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|x64.ActiveCfg = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|x64.Build.0 = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|x86.ActiveCfg = Release|Any CPU
+		{63A82043-A4BE-4139-AB46-15A307837A5A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4534,6 +4550,8 @@ Global
 		{A6778833-53AD-41D1-B6E0-11E264660382} = {CE1F271D-A6A8-4F34-ACC8-7BE7B066EB07}
 		{8F0F8A25-2ED5-4345-931C-61DEFBF83A93} = {CE1F271D-A6A8-4F34-ACC8-7BE7B066EB07}
 		{564F1B7A-CD14-45A4-A969-ED83D8F4659B} = {CE1F271D-A6A8-4F34-ACC8-7BE7B066EB07}
+		{B29C3EB2-448F-4CE8-9B4B-592DC2ED0690} = {2A267AAA-514D-4EA6-8417-91C39C98F9D4}
+		{63A82043-A4BE-4139-AB46-15A307837A5A} = {B29C3EB2-448F-4CE8-9B4B-592DC2ED0690}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
