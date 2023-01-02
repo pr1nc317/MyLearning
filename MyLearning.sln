@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.31205.134
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FreePractice", "MyLearning\FreePractice.csproj", "{6166E025-941B-4AD7-991B-DE0FB5D8A54D}"
 EndProject
@@ -697,7 +697,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Addi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bit Flipping", "Bit Flipping\Bit Flipping.csproj", "{63A82043-A4BE-4139-AB46-15A307837A5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap Bits", "Swap Bits\Swap Bits.csproj", "{8F967AED-689B-48BD-BD70-125244687750}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap Bits", "Swap Bits\Swap Bits.csproj", "{8F967AED-689B-48BD-BD70-125244687750}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7. Two Pointers", "7. Two Pointers", "{F619BF70-BF31-4515-99D4-4AC64226D9A5}"
 EndProject
@@ -705,9 +705,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{A2
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sorting", "Sorting", "{69BBC156-FE8F-47C9-A496-906526193DAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pair With Given Difference", "Pair With Given Difference\Pair With Given Difference.csproj", "{2816B376-2BF8-4887-810E-3B134F4557CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pair With Given Difference", "Pair With Given Difference\Pair With Given Difference.csproj", "{2816B376-2BF8-4887-810E-3B134F4557CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 Sum", "3 Sum\3 Sum.csproj", "{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3 Sum", "3 Sum\3 Sum.csproj", "{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Triangles", "Counting Triangles\Counting Triangles.csproj", "{127E7803-3031-4767-8573-1534E0F40267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diffk", "Diffk\Diffk.csproj", "{4BC708F8-FFAF-447C-9934-CC2C79AC9439}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4265,6 +4269,30 @@ Global
 		{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC}.Release|x64.Build.0 = Release|Any CPU
 		{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC}.Release|x86.ActiveCfg = Release|Any CPU
 		{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC}.Release|x86.Build.0 = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|x64.Build.0 = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Debug|x86.Build.0 = Debug|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|x64.ActiveCfg = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|x64.Build.0 = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|x86.ActiveCfg = Release|Any CPU
+		{127E7803-3031-4767-8573-1534E0F40267}.Release|x86.Build.0 = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|x64.Build.0 = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Debug|x86.Build.0 = Debug|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|x64.ActiveCfg = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|x64.Build.0 = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|x86.ActiveCfg = Release|Any CPU
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4606,6 +4634,8 @@ Global
 		{69BBC156-FE8F-47C9-A496-906526193DAD} = {A2F4EFE7-4871-4F3F-A255-4A54625B7FC6}
 		{2816B376-2BF8-4887-810E-3B134F4557CF} = {69BBC156-FE8F-47C9-A496-906526193DAD}
 		{49827BD3-B8EE-42E5-9B16-87AF1CFCB6FC} = {69BBC156-FE8F-47C9-A496-906526193DAD}
+		{127E7803-3031-4767-8573-1534E0F40267} = {69BBC156-FE8F-47C9-A496-906526193DAD}
+		{4BC708F8-FFAF-447C-9934-CC2C79AC9439} = {69BBC156-FE8F-47C9-A496-906526193DAD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
