@@ -8,34 +8,18 @@
         public static int RemoveDuplicates(List<int> a)
         {
             int i = 0, j = 1;
-            int ans = 0;
-            while (i < a.Count && j < a.Count)
+            for (; j < a.Count; j++)
             {
-                if (a[j] == a[i])
+                if (!a[j].Equals(a[i]))
                 {
-                    j++;
-                    ans++;
-                }
-                else
-                {
-                    if (j - i > 1)
-                    {
-                        a.RemoveRange(i + 1, j - i - 1);
-                        i++;
-                        j = i + 1;
-                    }
-                    else
-                    {
-                        i++;
-                        j++;
-                    }
+                    a[++i] = a[j];
                 }
             }
-            if (j - i > 1)
+            while (a.Count > i + 1)
             {
-                a.RemoveRange(i + 1, j - i - 1);
+                a.RemoveAt(a.Count - 1);
             }
-            return ans;
+            return a.Count;
         }
 
         static void Main(string[] args)
