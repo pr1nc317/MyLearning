@@ -21,6 +21,7 @@
                 {
                     i++;
                     j = i;
+                    currSum = 0;
                     continue;
                 }
                 currSum += A[i];
