@@ -741,6 +741,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Continuous Series Of 1s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 3 Pointers", "Array 3 Pointers\Array 3 Pointers.csproj", "{C5E4518A-370D-4E37-91CC-191E67F3221E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container With Most Water", "Container With Most Water\Container With Most Water.csproj", "{72CC746A-D405-4359-B3F5-1631A1555002}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4453,6 +4455,18 @@ Global
 		{C5E4518A-370D-4E37-91CC-191E67F3221E}.Release|x64.Build.0 = Release|Any CPU
 		{C5E4518A-370D-4E37-91CC-191E67F3221E}.Release|x86.ActiveCfg = Release|Any CPU
 		{C5E4518A-370D-4E37-91CC-191E67F3221E}.Release|x86.Build.0 = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|x64.Build.0 = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Debug|x86.Build.0 = Debug|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|x64.ActiveCfg = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|x64.Build.0 = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|x86.ActiveCfg = Release|Any CPU
+		{72CC746A-D405-4359-B3F5-1631A1555002}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4810,6 +4824,7 @@ Global
 		{DAC821ED-E898-4581-BC59-58B1C187AA36} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 		{C5E4518A-370D-4E37-91CC-191E67F3221E} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
+		{72CC746A-D405-4359-B3F5-1631A1555002} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
