@@ -733,9 +733,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tricks", "Tricks", "{B06A14
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Ones After Modification", "Maximum Ones After Modification\Maximum Ones After Modification.csproj", "{C4E19060-996F-4C8F-92F2-6B9EF6E25440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Counting Subarrays!", "Counting Subarrays!\Counting Subarrays!.csproj", "{38A3E54F-19C8-4A67-B6A8-1817EF2A2242}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Subarrays!", "Counting Subarrays!\Counting Subarrays!.csproj", "{38A3E54F-19C8-4A67-B6A8-1817EF2A2242}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarrays with distinct integers", "Subarrays with distinct integers\Subarrays with distinct integers.csproj", "{DAC821ED-E898-4581-BC59-58B1C187AA36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subarrays with distinct integers", "Subarrays with distinct integers\Subarrays with distinct integers.csproj", "{DAC821ED-E898-4581-BC59-58B1C187AA36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Continuous Series Of 1s", "Max Continuous Series Of 1s\Max Continuous Series Of 1s.csproj", "{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4425,6 +4427,18 @@ Global
 		{DAC821ED-E898-4581-BC59-58B1C187AA36}.Release|x64.Build.0 = Release|Any CPU
 		{DAC821ED-E898-4581-BC59-58B1C187AA36}.Release|x86.ActiveCfg = Release|Any CPU
 		{DAC821ED-E898-4581-BC59-58B1C187AA36}.Release|x86.Build.0 = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|x64.Build.0 = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Debug|x86.Build.0 = Debug|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|x64.ActiveCfg = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|x64.Build.0 = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|x86.ActiveCfg = Release|Any CPU
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4780,6 +4794,7 @@ Global
 		{C4E19060-996F-4C8F-92F2-6B9EF6E25440} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 		{38A3E54F-19C8-4A67-B6A8-1817EF2A2242} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 		{DAC821ED-E898-4581-BC59-58B1C187AA36} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
+		{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
