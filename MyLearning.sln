@@ -747,6 +747,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Addi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Numbers", "Palindrome Numbers\Palindrome Numbers.csproj", "{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth Smallest Element in the Array", "Kth Smallest Element in the Array\Kth Smallest Element in the Array.csproj", "{BF292956-4385-4B3A-97B8-71BAA602D8FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4483,6 +4485,18 @@ Global
 		{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}.Release|x64.Build.0 = Release|Any CPU
 		{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}.Release|x86.ActiveCfg = Release|Any CPU
 		{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}.Release|x86.Build.0 = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|x64.Build.0 = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x64.ActiveCfg = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x64.Build.0 = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4843,6 +4857,7 @@ Global
 		{72CC746A-D405-4359-B3F5-1631A1555002} = {B06A14FE-F982-4CF6-9302-842E2E1545E9}
 		{123AB42C-2AED-493C-9341-6A233A9156A1} = {A2F4EFE7-4871-4F3F-A255-4A54625B7FC6}
 		{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1} = {123AB42C-2AED-493C-9341-6A233A9156A1}
+		{BF292956-4385-4B3A-97B8-71BAA602D8FB} = {123AB42C-2AED-493C-9341-6A233A9156A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
