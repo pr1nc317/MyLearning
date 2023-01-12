@@ -13,6 +13,7 @@
 
         public ListNode ReverseList(ListNode A)
         {
+            if (A.next == null) return A;
             ListNode temp = A.next;
             A.next = null;
             while (temp.next != null)
