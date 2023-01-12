@@ -737,17 +737,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Counting Subarrays!", "Coun
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Subarrays with distinct integers", "Subarrays with distinct integers\Subarrays with distinct integers.csproj", "{DAC821ED-E898-4581-BC59-58B1C187AA36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Max Continuous Series Of 1s", "Max Continuous Series Of 1s\Max Continuous Series Of 1s.csproj", "{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Max Continuous Series Of 1s", "Max Continuous Series Of 1s\Max Continuous Series Of 1s.csproj", "{BDB404DF-27F6-459D-BF6B-F6E823C0CAE7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array 3 Pointers", "Array 3 Pointers\Array 3 Pointers.csproj", "{C5E4518A-370D-4E37-91CC-191E67F3221E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Array 3 Pointers", "Array 3 Pointers\Array 3 Pointers.csproj", "{C5E4518A-370D-4E37-91CC-191E67F3221E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Container With Most Water", "Container With Most Water\Container With Most Water.csproj", "{72CC746A-D405-4359-B3F5-1631A1555002}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Container With Most Water", "Container With Most Water\Container With Most Water.csproj", "{72CC746A-D405-4359-B3F5-1631A1555002}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{123AB42C-2AED-493C-9341-6A233A9156A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome Numbers", "Palindrome Numbers\Palindrome Numbers.csproj", "{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Numbers", "Palindrome Numbers\Palindrome Numbers.csproj", "{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth Smallest Element in the Array", "Kth Smallest Element in the Array\Kth Smallest Element in the Array.csproj", "{BF292956-4385-4B3A-97B8-71BAA602D8FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kth Smallest Element in the Array", "Kth Smallest Element in the Array\Kth Smallest Element in the Array.csproj", "{BF292956-4385-4B3A-97B8-71BAA602D8FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUMRANGE", "NUMRANGE\NUMRANGE.csproj", "{17260C80-7DCE-420D-9417-074769D62C39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4497,6 +4499,18 @@ Global
 		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x64.Build.0 = Release|Any CPU
 		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x86.ActiveCfg = Release|Any CPU
 		{BF292956-4385-4B3A-97B8-71BAA602D8FB}.Release|x86.Build.0 = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|x64.Build.0 = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Debug|x86.Build.0 = Debug|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|x64.ActiveCfg = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|x64.Build.0 = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|x86.ActiveCfg = Release|Any CPU
+		{17260C80-7DCE-420D-9417-074769D62C39}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4858,6 +4872,7 @@ Global
 		{123AB42C-2AED-493C-9341-6A233A9156A1} = {A2F4EFE7-4871-4F3F-A255-4A54625B7FC6}
 		{41DA81DE-E295-4DF9-ABF3-61D42C3D95D1} = {123AB42C-2AED-493C-9341-6A233A9156A1}
 		{BF292956-4385-4B3A-97B8-71BAA602D8FB} = {123AB42C-2AED-493C-9341-6A233A9156A1}
+		{17260C80-7DCE-420D-9417-074769D62C39} = {123AB42C-2AED-493C-9341-6A233A9156A1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
