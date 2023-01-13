@@ -767,6 +767,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Binary Linked List", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partition List", "Partition List\Partition List.csproj", "{3DCBA24C-4240-406B-B056-F9198A1B9435}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort List", "Insertion Sort List\Insertion Sort List.csproj", "{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4575,6 +4577,18 @@ Global
 		{3DCBA24C-4240-406B-B056-F9198A1B9435}.Release|x64.Build.0 = Release|Any CPU
 		{3DCBA24C-4240-406B-B056-F9198A1B9435}.Release|x86.ActiveCfg = Release|Any CPU
 		{3DCBA24C-4240-406B-B056-F9198A1B9435}.Release|x86.Build.0 = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|x64.Build.0 = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Debug|x86.Build.0 = Debug|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|x64.ActiveCfg = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|x64.Build.0 = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|x86.ActiveCfg = Release|Any CPU
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -4945,6 +4959,7 @@ Global
 		{5B48604A-5304-4852-9844-69DDA6446957} = {693999F4-AD05-4786-BBDF-936C61571639}
 		{8DAE6D81-7081-47EB-97D2-872C7DE64399} = {5B48604A-5304-4852-9844-69DDA6446957}
 		{3DCBA24C-4240-406B-B056-F9198A1B9435} = {5B48604A-5304-4852-9844-69DDA6446957}
+		{5D55CED3-F9A7-4704-A51C-8404AB4F15B9} = {5B48604A-5304-4852-9844-69DDA6446957}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
