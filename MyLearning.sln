@@ -781,6 +781,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Two Sorted Lists", "M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted List", "Remove Duplicates from Sorted List\Remove Duplicates from Sorted List.csproj", "{3E66D327-C13B-4156-87F5-9FD8C5C2809A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth Node From List End", "Remove Nth Node From List End\Remove Nth Node From List End.csproj", "{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4661,6 +4663,18 @@ Global
 		{3E66D327-C13B-4156-87F5-9FD8C5C2809A}.Release|x64.Build.0 = Release|Any CPU
 		{3E66D327-C13B-4156-87F5-9FD8C5C2809A}.Release|x86.ActiveCfg = Release|Any CPU
 		{3E66D327-C13B-4156-87F5-9FD8C5C2809A}.Release|x86.Build.0 = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|x64.Build.0 = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Debug|x86.Build.0 = Debug|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|x64.ActiveCfg = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|x64.Build.0 = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|x86.ActiveCfg = Release|Any CPU
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5038,6 +5052,7 @@ Global
 		{ECC83228-692B-43A4-9ACA-85A76BA6FA42} = {994EADDF-1264-4A92-A64B-5FE403A1373F}
 		{9F0E884F-9CB6-4557-A58C-C198EA52E0F4} = {994EADDF-1264-4A92-A64B-5FE403A1373F}
 		{3E66D327-C13B-4156-87F5-9FD8C5C2809A} = {994EADDF-1264-4A92-A64B-5FE403A1373F}
+		{14B834BB-5249-40B2-8CE5-83F96EEFF8E1} = {994EADDF-1264-4A92-A64B-5FE403A1373F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
