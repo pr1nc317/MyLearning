@@ -823,6 +823,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Parantheses!", "Balanced Parantheses!\Balanced Parantheses!.csproj", "{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplify Directory Path", "Simplify Directory Path\Simplify Directory Path.csproj", "{31159F86-95FA-4963-999F-7664937AC152}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4871,6 +4873,18 @@ Global
 		{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}.Release|x64.Build.0 = Release|Any CPU
 		{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}.Release|x86.ActiveCfg = Release|Any CPU
 		{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}.Release|x86.Build.0 = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|x64.Build.0 = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Debug|x86.Build.0 = Debug|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|x64.ActiveCfg = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|x64.Build.0 = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|x86.ActiveCfg = Release|Any CPU
+		{31159F86-95FA-4963-999F-7664937AC152}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5269,6 +5283,7 @@ Global
 		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79} = {3D41D59A-5364-483F-86D7-1964CCC777D0}
 		{63BC68FF-27CD-4C18-8595-5A7F3DEA45CD} = {3D41D59A-5364-483F-86D7-1964CCC777D0}
 		{5A610BAA-6CA3-4358-BC96-7EE6FC11F858} = {A1CDD333-95C0-490F-BBD1-F1C3E363A85A}
+		{31159F86-95FA-4963-999F-7664937AC152} = {A1CDD333-95C0-490F-BBD1-F1C3E363A85A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
