@@ -749,7 +749,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Numbers", "Palin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kth Smallest Element in the Array", "Kth Smallest Element in the Array\Kth Smallest Element in the Array.csproj", "{BF292956-4385-4B3A-97B8-71BAA602D8FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUMRANGE", "NUMRANGE\NUMRANGE.csproj", "{17260C80-7DCE-420D-9417-074769D62C39}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NUMRANGE", "NUMRANGE\NUMRANGE.csproj", "{17260C80-7DCE-420D-9417-074769D62C39}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "8. Linked Lists", "8. Linked Lists", "{16D95595-722E-4C45-9461-DE1E6F8089D5}"
 EndProject
@@ -757,57 +757,67 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{69
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Walkthrough Examples", "Walkthrough Examples", "{241F30C6-6A82-4AAC-AE93-8C65A1F2C186}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intersection Of Linked Lists", "Intersection Of Linked Lists\Intersection Of Linked Lists.csproj", "{57B26727-D3E5-42B5-AE0E-46004F0E1EB0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Intersection Of Linked Lists", "Intersection Of Linked Lists\Intersection Of Linked Lists.csproj", "{57B26727-D3E5-42B5-AE0E-46004F0E1EB0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.csproj", "{C76BBAD6-E05F-4444-B372-45A858184A37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Linked List", "Reverse Linked List\Reverse Linked List.csproj", "{C76BBAD6-E05F-4444-B372-45A858184A37}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. List sort", "1. List sort", "{5B48604A-5304-4852-9844-69DDA6446957}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort Binary Linked List", "Sort Binary Linked List\Sort Binary Linked List.csproj", "{8DAE6D81-7081-47EB-97D2-872C7DE64399}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort Binary Linked List", "Sort Binary Linked List\Sort Binary Linked List.csproj", "{8DAE6D81-7081-47EB-97D2-872C7DE64399}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partition List", "Partition List\Partition List.csproj", "{3DCBA24C-4240-406B-B056-F9198A1B9435}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Partition List", "Partition List\Partition List.csproj", "{3DCBA24C-4240-406B-B056-F9198A1B9435}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion Sort List", "Insertion Sort List\Insertion Sort List.csproj", "{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Insertion Sort List", "Insertion Sort List\Insertion Sort List.csproj", "{5D55CED3-F9A7-4704-A51C-8404AB4F15B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort List", "Sort List\Sort List.csproj", "{1086A9AF-4D1D-49BB-A83C-8D0B329E2B75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort List", "Sort List\Sort List.csproj", "{1086A9AF-4D1D-49BB-A83C-8D0B329E2B75}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. List 2 Pointer", "2. List 2 Pointer", "{994EADDF-1264-4A92-A64B-5FE403A1373F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome List", "Palindrome List\Palindrome List.csproj", "{74B8C903-25E8-41DA-8C5E-8439E2BC8BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome List", "Palindrome List\Palindrome List.csproj", "{74B8C903-25E8-41DA-8C5E-8439E2BC8BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates From Sorted List II", "Remove Duplicates From Sorted List II\Remove Duplicates From Sorted List II.csproj", "{ECC83228-692B-43A4-9ACA-85A76BA6FA42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates From Sorted List II", "Remove Duplicates From Sorted List II\Remove Duplicates From Sorted List II.csproj", "{ECC83228-692B-43A4-9ACA-85A76BA6FA42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Merge Two Sorted Lists", "Merge Two Sorted Lists\Merge Two Sorted Lists.csproj", "{9F0E884F-9CB6-4557-A58C-C198EA52E0F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Merge Two Sorted Lists", "Merge Two Sorted Lists\Merge Two Sorted Lists.csproj", "{9F0E884F-9CB6-4557-A58C-C198EA52E0F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Duplicates from Sorted List", "Remove Duplicates from Sorted List\Remove Duplicates from Sorted List.csproj", "{3E66D327-C13B-4156-87F5-9FD8C5C2809A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Duplicates from Sorted List", "Remove Duplicates from Sorted List\Remove Duplicates from Sorted List.csproj", "{3E66D327-C13B-4156-87F5-9FD8C5C2809A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove Nth Node From List End", "Remove Nth Node From List End\Remove Nth Node From List End.csproj", "{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Nth Node From List End", "Remove Nth Node From List End\Remove Nth Node From List End.csproj", "{14B834BB-5249-40B2-8CE5-83F96EEFF8E1}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Pointer move", "3. Pointer move", "{CE92AD8D-A789-4834-8AB3-E8326B08EFA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K Reverse Linked List", "K Reverse Linked List\K Reverse Linked List.csproj", "{D85F7272-A887-4200-A397-A80DA633C2D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "K Reverse Linked List", "K Reverse Linked List\K Reverse Linked List.csproj", "{D85F7272-A887-4200-A397-A80DA633C2D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Reverse", "Even Reverse\Even Reverse.csproj", "{2F539824-149A-40A0-BBF1-A7B4F6EF2187}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Even Reverse", "Even Reverse\Even Reverse.csproj", "{2F539824-149A-40A0-BBF1-A7B4F6EF2187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swap List Nodes in pairs", "Swap List Nodes in pairs\Swap List Nodes in pairs.csproj", "{A73042FF-DDC5-42F5-9128-A859E8F247A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swap List Nodes in pairs", "Swap List Nodes in pairs\Swap List Nodes in pairs.csproj", "{A73042FF-DDC5-42F5-9128-A859E8F247A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotate List", "Rotate List\Rotate List.csproj", "{F0CD0806-E160-47E6-BF36-0F15D42AED56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rotate List", "Rotate List\Rotate List.csproj", "{F0CD0806-E160-47E6-BF36-0F15D42AED56}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. List trick", "4. List trick", "{EE44DC23-2CE9-4FDD-8141-63A7EB56DF1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kth Node From Middle", "Kth Node From Middle\Kth Node From Middle.csproj", "{E7578774-C84A-4E83-86A7-6686697BB284}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kth Node From Middle", "Kth Node From Middle\Kth Node From Middle.csproj", "{E7578774-C84A-4E83-86A7-6686697BB284}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Alternate K Nodes", "Reverse Alternate K Nodes\Reverse Alternate K Nodes.csproj", "{CC4148B5-49F6-4CB2-9C10-B56F21C50E34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Alternate K Nodes", "Reverse Alternate K Nodes\Reverse Alternate K Nodes.csproj", "{CC4148B5-49F6-4CB2-9C10-B56F21C50E34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Link List II", "Reverse Link List II\Reverse Link List II.csproj", "{6FC402BC-7D78-49E4-A459-71C1C1EBABC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Link List II", "Reverse Link List II\Reverse Link List II.csproj", "{6FC402BC-7D78-49E4-A459-71C1C1EBABC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reorder List", "Reorder List\Reorder List.csproj", "{BF774E60-A924-4AB0-AC04-92142EE66FA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reorder List", "Reorder List\Reorder List.csproj", "{BF774E60-A924-4AB0-AC04-92142EE66FA7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. List math", "5. List math", "{A9A1B34E-B1B7-4B4F-9844-5C98E98A7DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Two Numbers As Lists", "Add Two Numbers As Lists\Add Two Numbers As Lists.csproj", "{7129BE79-51A6-4C9B-95F9-EBB9092A9063}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Add Two Numbers As Lists", "Add Two Numbers As Lists\Add Two Numbers As Lists.csproj", "{7129BE79-51A6-4C9B-95F9-EBB9092A9063}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "List Cycle", "List Cycle\List Cycle.csproj", "{26E4B951-6910-4122-B953-F03008A3E3C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "List Cycle", "List Cycle\List Cycle.csproj", "{26E4B951-6910-4122-B953-F03008A3E3C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9. Stacks And Queues", "9. Stacks And Queues", "{D7C40904-A1C7-481E-9803-973801560FA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Walkthrough Examples", "Walkthrough Examples", "{3D41D59A-5364-483F-86D7-1964CCC777D0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{98699F74-7C44-4890-8503-390568A88730}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Stack simple", "1. Stack simple", "{A1CDD333-95C0-490F-BBD1-F1C3E363A85A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate all Parentheses", "Generate all Parentheses\Generate all Parentheses.csproj", "{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4821,6 +4831,18 @@ Global
 		{26E4B951-6910-4122-B953-F03008A3E3C3}.Release|x64.Build.0 = Release|Any CPU
 		{26E4B951-6910-4122-B953-F03008A3E3C3}.Release|x86.ActiveCfg = Release|Any CPU
 		{26E4B951-6910-4122-B953-F03008A3E3C3}.Release|x86.Build.0 = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|x64.Build.0 = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Debug|x86.Build.0 = Debug|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|x64.ActiveCfg = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|x64.Build.0 = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|x86.ActiveCfg = Release|Any CPU
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5212,6 +5234,11 @@ Global
 		{A9A1B34E-B1B7-4B4F-9844-5C98E98A7DFB} = {693999F4-AD05-4786-BBDF-936C61571639}
 		{7129BE79-51A6-4C9B-95F9-EBB9092A9063} = {A9A1B34E-B1B7-4B4F-9844-5C98E98A7DFB}
 		{26E4B951-6910-4122-B953-F03008A3E3C3} = {A9A1B34E-B1B7-4B4F-9844-5C98E98A7DFB}
+		{D7C40904-A1C7-481E-9803-973801560FA0} = {ADEBF02A-DAFA-47C5-9497-13DF0E910A74}
+		{3D41D59A-5364-483F-86D7-1964CCC777D0} = {D7C40904-A1C7-481E-9803-973801560FA0}
+		{98699F74-7C44-4890-8503-390568A88730} = {D7C40904-A1C7-481E-9803-973801560FA0}
+		{A1CDD333-95C0-490F-BBD1-F1C3E363A85A} = {98699F74-7C44-4890-8503-390568A88730}
+		{B5E04730-8A6C-40FE-9FDC-573A78B1EF79} = {3D41D59A-5364-483F-86D7-1964CCC777D0}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
