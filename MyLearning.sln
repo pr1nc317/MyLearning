@@ -817,17 +817,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problems", "Problems", "{98
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Stack simple", "1. Stack simple", "{A1CDD333-95C0-490F-BBD1-F1C3E363A85A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generate all Parentheses", "Generate all Parentheses\Generate all Parentheses.csproj", "{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generate all Parentheses", "Generate all Parentheses\Generate all Parentheses.csproj", "{B5E04730-8A6C-40FE-9FDC-573A78B1EF79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{63BC68FF-27CD-4C18-8595-5A7F3DEA45CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse String", "Reverse String\Reverse String.csproj", "{63BC68FF-27CD-4C18-8595-5A7F3DEA45CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanced Parantheses!", "Balanced Parantheses!\Balanced Parantheses!.csproj", "{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanced Parantheses!", "Balanced Parantheses!\Balanced Parantheses!.csproj", "{5A610BAA-6CA3-4358-BC96-7EE6FC11F858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simplify Directory Path", "Simplify Directory Path\Simplify Directory Path.csproj", "{31159F86-95FA-4963-999F-7664937AC152}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Simplify Directory Path", "Simplify Directory Path\Simplify Directory Path.csproj", "{31159F86-95FA-4963-999F-7664937AC152}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Redundant Braces", "Redundant Braces\Redundant Braces.csproj", "{AA9A455E-F6DE-47AC-83A5-8B72B8D75389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Redundant Braces", "Redundant Braces\Redundant Braces.csproj", "{AA9A455E-F6DE-47AC-83A5-8B72B8D75389}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Min Stack", "Min Stack\Min Stack.csproj", "{25DF868E-1D15-481A-8488-9975E07E7F7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Stack", "Min Stack\Min Stack.csproj", "{25DF868E-1D15-481A-8488-9975E07E7F7A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Cleverstack", "2. Cleverstack", "{7F1BC193-A6A8-4653-B274-16F75DBF7D09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAXSPPROD", "MAXSPPROD\MAXSPPROD.csproj", "{ECE492A9-BE65-4FF9-9565-9892CEE174CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -4913,6 +4917,18 @@ Global
 		{25DF868E-1D15-481A-8488-9975E07E7F7A}.Release|x64.Build.0 = Release|Any CPU
 		{25DF868E-1D15-481A-8488-9975E07E7F7A}.Release|x86.ActiveCfg = Release|Any CPU
 		{25DF868E-1D15-481A-8488-9975E07E7F7A}.Release|x86.Build.0 = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|x64.Build.0 = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5314,6 +5330,8 @@ Global
 		{31159F86-95FA-4963-999F-7664937AC152} = {A1CDD333-95C0-490F-BBD1-F1C3E363A85A}
 		{AA9A455E-F6DE-47AC-83A5-8B72B8D75389} = {A1CDD333-95C0-490F-BBD1-F1C3E363A85A}
 		{25DF868E-1D15-481A-8488-9975E07E7F7A} = {A1CDD333-95C0-490F-BBD1-F1C3E363A85A}
+		{7F1BC193-A6A8-4653-B274-16F75DBF7D09} = {98699F74-7C44-4890-8503-390568A88730}
+		{ECE492A9-BE65-4FF9-9565-9892CEE174CB} = {7F1BC193-A6A8-4653-B274-16F75DBF7D09}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
