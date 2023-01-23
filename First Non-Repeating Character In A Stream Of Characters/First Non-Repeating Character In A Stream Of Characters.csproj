@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>First_Non_Repeating_Character_In_A_Stream_Of_Characters</RootNamespace>
+  </PropertyGroup>
+
+</Project>
