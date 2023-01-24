@@ -841,6 +841,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Queue", "4. Queue", "{2C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Non-Repeating Character In A Stream Of Characters", "First Non-Repeating Character In A Stream Of Characters\First Non-Repeating Character In A Stream Of Characters.csproj", "{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliding Window Maximum", "Sliding Window Maximum\Sliding Window Maximum.csproj", "{09911ECE-A348-4A07-86C8-76418C422F0B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -4973,6 +4975,18 @@ Global
 		{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}.Release|x64.Build.0 = Release|Any CPU
 		{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}.Release|x86.ActiveCfg = Release|Any CPU
 		{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}.Release|x86.Build.0 = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|x64.Build.0 = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Debug|x86.Build.0 = Debug|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|x64.ActiveCfg = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|x64.Build.0 = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|x86.ActiveCfg = Release|Any CPU
+		{09911ECE-A348-4A07-86C8-76418C422F0B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5380,6 +5394,7 @@ Global
 		{1786EE1E-F0A3-406F-9F7B-4EB5968C17A7} = {7F1BC193-A6A8-4653-B274-16F75DBF7D09}
 		{2CB7F480-D639-4605-A35B-CC7BD26F16E1} = {98699F74-7C44-4890-8503-390568A88730}
 		{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E} = {2CB7F480-D639-4605-A35B-CC7BD26F16E1}
+		{09911ECE-A348-4A07-86C8-76418C422F0B} = {2CB7F480-D639-4605-A35B-CC7BD26F16E1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
