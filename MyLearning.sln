@@ -831,27 +831,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Min Stack", "Min Stack\Min 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Cleverstack", "2. Cleverstack", "{7F1BC193-A6A8-4653-B274-16F75DBF7D09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAXSPPROD", "MAXSPPROD\MAXSPPROD.csproj", "{ECE492A9-BE65-4FF9-9565-9892CEE174CB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAXSPPROD", "MAXSPPROD\MAXSPPROD.csproj", "{ECE492A9-BE65-4FF9-9565-9892CEE174CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nearest Smaller Element", "Nearest Smaller Element\Nearest Smaller Element.csproj", "{FC2932D5-7988-4B4E-B2F3-DF1922491067}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nearest Smaller Element", "Nearest Smaller Element\Nearest Smaller Element.csproj", "{FC2932D5-7988-4B4E-B2F3-DF1922491067}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Largest Rectangle In Histogram", "Largest Rectangle In Histogram\Largest Rectangle In Histogram.csproj", "{1786EE1E-F0A3-406F-9F7B-4EB5968C17A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest Rectangle In Histogram", "Largest Rectangle In Histogram\Largest Rectangle In Histogram.csproj", "{1786EE1E-F0A3-406F-9F7B-4EB5968C17A7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Queue", "4. Queue", "{2CB7F480-D639-4605-A35B-CC7BD26F16E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "First Non-Repeating Character In A Stream Of Characters", "First Non-Repeating Character In A Stream Of Characters\First Non-Repeating Character In A Stream Of Characters.csproj", "{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "First Non-Repeating Character In A Stream Of Characters", "First Non-Repeating Character In A Stream Of Characters\First Non-Repeating Character In A Stream Of Characters.csproj", "{84C99E5D-38BD-4CF9-81C8-0CC5DAFF027E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sliding Window Maximum", "Sliding Window Maximum\Sliding Window Maximum.csproj", "{09911ECE-A348-4A07-86C8-76418C422F0B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sliding Window Maximum", "Sliding Window Maximum\Sliding Window Maximum.csproj", "{09911ECE-A348-4A07-86C8-76418C422F0B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5. Stack math", "5. Stack math", "{B5EEA397-CEBA-43EB-84A8-30FB42338563}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evaluate Expression", "Evaluate Expression\Evaluate Expression.csproj", "{C3B2FD25-F93A-45BB-A2F0-7889FFFFC0D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Evaluate Expression", "Evaluate Expression\Evaluate Expression.csproj", "{C3B2FD25-F93A-45BB-A2F0-7889FFFFC0D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rain Water Trapped", "Rain Water Trapped\Rain Water Trapped.csproj", "{EB835D10-B936-4E39-B7FB-2806381DC5D7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rain Water Trapped", "Rain Water Trapped\Rain Water Trapped.csproj", "{EB835D10-B936-4E39-B7FB-2806381DC5D7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Bfs", "3. Bfs", "{B86B8A65-B56E-49EF-8375-C206B8E1FB71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hotel Service", "Hotel Service\Hotel Service.csproj", "{C33EA057-A7E1-44F1-8833-1889BCC2CDDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hotel Service", "Hotel Service\Hotel Service.csproj", "{C33EA057-A7E1-44F1-8833-1889BCC2CDDF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Additional Practice", "Additional Practice", "{086A8D23-15AA-4462-82D2-EE804E84CA65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SUBTRACT", "SUBTRACT\SUBTRACT.csproj", "{489B28D2-BBC7-4DB5-8591-564551E7C398}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -5033,6 +5037,18 @@ Global
 		{C33EA057-A7E1-44F1-8833-1889BCC2CDDF}.Release|x64.Build.0 = Release|Any CPU
 		{C33EA057-A7E1-44F1-8833-1889BCC2CDDF}.Release|x86.ActiveCfg = Release|Any CPU
 		{C33EA057-A7E1-44F1-8833-1889BCC2CDDF}.Release|x86.Build.0 = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|x64.Build.0 = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Debug|x86.Build.0 = Debug|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|x64.ActiveCfg = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|x64.Build.0 = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|x86.ActiveCfg = Release|Any CPU
+		{489B28D2-BBC7-4DB5-8591-564551E7C398}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -5446,6 +5462,8 @@ Global
 		{EB835D10-B936-4E39-B7FB-2806381DC5D7} = {B5EEA397-CEBA-43EB-84A8-30FB42338563}
 		{B86B8A65-B56E-49EF-8375-C206B8E1FB71} = {98699F74-7C44-4890-8503-390568A88730}
 		{C33EA057-A7E1-44F1-8833-1889BCC2CDDF} = {B86B8A65-B56E-49EF-8375-C206B8E1FB71}
+		{086A8D23-15AA-4462-82D2-EE804E84CA65} = {98699F74-7C44-4890-8503-390568A88730}
+		{489B28D2-BBC7-4DB5-8591-564551E7C398} = {086A8D23-15AA-4462-82D2-EE804E84CA65}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B486F177-B9E2-47F6-85C1-8F5E2E86E8CA}
